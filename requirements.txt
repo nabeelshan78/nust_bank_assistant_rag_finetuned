@@ -1,0 +1,12 @@
+torch
+transformers
+peft
+accelerate
+datasets
+trl
+bitsandbytes
+python-dotenv
+scipy
+pandas 
+openpyxl 
+tabulate
