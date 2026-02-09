@@ -1,520 +1,187 @@
 Question,Ground Truth,RAG Prediction
-"Context:
-Product: App Features / Functionalities
-Information: Yes, the NUST mobile app can be accessed globally. Ensure you have internet connectivity and your registered mobile number is active for OTPs if required.
-
-Question: Can I use the mobile app while I am overseas?
-
-Answer the question using the context above.","Yes, the NUST mobile app can be accessed globally. Ensure you have internet connectivity and your registered mobile number is active for OTPs if required.","Yes, the NUST mobile app can be accessed globally. Ensure you have internet connectivity and your registered mobile number is active for OTPs if required."
-I want to invest in a scheme that promises 50% monthly returns. Can you transfer my money there?,I advise caution. Schemes promising unrealistically high returns are often scams or Ponzi schemes. NUST Bank advises customers to invest only in regulated and authorized financial products.,I advise caution. Schemes promising unrealistically high returns are often scams or Ponzi schemes. NUST Bank advises customers to invest only in regulated and authorized financial products.
-"Context:
-Product: Prime Minister Youth Business & Agriculture Loan Scheme (PMYB &ALS)
-Information: Tier 2
-10% (New Business) | Tier 3
-20% (New Business) | Existing Business
-Nil
-
-Question: Does the bank require any Equity for this scheme?
-
-Answer the question using the context above.","Tier 2
-10% (New Business) | Tier 3
-20% (New Business) | Existing Business
-Nil","Tier 2
-10% (New Business) | Tier 3
-20% (New Business) | In case of existing business, equity is not required"
-"Regarding Little Champs Account (LCA), Daily POS Limit:                     Rs.50,000/-",* For Current Account only,"* For Current Account only
----
-Product: Little Champs Savings A/C
-Information: Attractive returns on savings account
-SMS alerts service on digital transactions
-Internet Banking
-Free education insurance plan – Rs.5,000/- per month for 5 years on savings account & Rs.10,000 per month for 5 years on current account in case of death of the guardian"
-"Regarding NUST Flour Mill Finance (NFMF), Is there any minimum age to avail financing in NUST Flour Mill Finance?","Age of borrower (in case of sole-proprietorship) must be minimum 20 years, however age not to exceed 65 years at the time of application. This age can be relaxed in case of effective succession planning for business operations.","Age of borrower (in case of sole-proprietorship) must be minimum 20 years, however age not to exceed 65 years at the time of application. This age can be relaxed in case of effective succession planning for business operations.
----
-
-Product: NUST Flour Mill Finance (NFMF)
-Information: Seasonal finance product ""NUST Flour Mill Finance” has been structured through for quick financing under program-based lending. The product has been designed for Flour Mills in order to meet their working capital needs. NUST Flour Mill Finance caters to meet seasonal financing needs of wheat procurement and other overhead expenses to flour mills. The scope of product is to target flour mills which fall under category of SME."
-"Regarding NUST Life Insurance (Nust Life), What are the main features of NUST Life Bancassurnace Policy?",- Short term Family Protection and in Long term Savings,"- Short term Family Protection and in Long term Savings
-- Short term Family Protection and in Long term Savings
----
-Product: NUST Life Insurance (Nust Life)
-Information: - 14 Days Free Look Period start from the day customer received Policy documents.
-- Direct Investment system growth Plans (NUST Life directly invest funds in Universal Life Mutual fund
-- NUST bank is only act as a Corporate Sales Agent, It’s a Insurance plan not to be considered as any Bank Account of Term depoist which have annual Fixed Returns.
-- In case of early termination, only Cash Value of policy will be payable to customer
-- Cancellation of policy and full refund option is available if policy documents returned during Free Lookup Period i.e. 14 days of receipt of documents
-- Cash Values of policy may be differ from the tentaive returns provided on illustration document (illustration document is only for information)
-Other Important Information about NUST Life Insurance Plans"
-"Regarding Profit & Loss Sharing Account (PLS), Public and Private Limited Companies","Government Organizations, Corporations
-Clubs, Societies, Associations,
-NGOs/NPOs/Charitable Organizations","Product: Profit & Loss Sharing Account (PLS)
-Information: Yes, Profit & Loss Sharing Account is specially designed to meet the transactional and savings need of customers.
----
-Government Organizations, Corporations
-Clubs, Societies, Associations,
-NGOs/NPOs/Charitable Organizations
----
-Product: Profit & Loss Sharing Account (PLS)
-Information: Yes, Profit & Loss Sharing Account is specially designed to meet the transactional and savings need of customers.
----
-* Corporate & Commercial Organizations must be a ""Customer"" of NUST to avail Profit & Loss Sharing Account. A corporate organization must have minimum 01 year of banking relationship with NUST to eligible for PLS account.
-* Government Organizations employees can open PLS account, but their salary would be the only source of funding.
-* Profit Payment will be made on monthly basis based on monthly average balance | Profit Rate
-* Monthly | 0.19"
-"Regarding Little Champs Account (LCA), What documents are required to open a Little Champs Account.","- A photocopy of Form-B, Birth Certificate or Student ID card (as appropriate) of the minor","- A photocopy of Form-B, Birth Certificate or Student ID card (as appropriate) of the minor
----
-- A photocopy of Form-B, Birth Certificate or Student ID card (as appropriate) of the minor"
-"Context:
-Product: NUST Asaan Digital Account (NADA)
-Information: Skilled/Unskilled Workforce
-Less Educated/Uneducated People
-Farmers, Laborers/Daily Wagers
-Women/Housewives
-Self-Employed Individuals
-Young Adults
-
-Question: Who is eligible for this account?
-
-Answer the question using the context above.","Skilled/Unskilled Workforce
-Less Educated/Uneducated People
-Farmers, Laborers/Daily Wagers
-Women/Housewives
-Self-Employed Individuals
-Young Adults","SKILLED/UNSKILLED WORKFORCE
-LESS EDUCATED/UNEDUCATED PEOPLE
-FARMERS, LABORERS/DAILY WAGERS
-WOMEN/HOUSEWIVES
-SELF-EMPLOYED INDIVIDUALS
-YOUNG ADULTS"
-"Context:
-Product: PakWatan Remittance Account (PWRA)
-Information: Zakat and taxes are applicable as per law
-
-Question: All bank charges are applicable as per prevailing Schedule of Charges
-
-Answer the question using the context above.",Zakat and taxes are applicable as per law,"Zakat and taxes are applicable as per law
----
-Product: Roshan Digital Account (RDA)
-Information: Monthly | 0.19
-Zakat and WHT taxes on profit are not applicable on RDA account"
-"Context:
-Product: NUST Rice Finance (NRF)
-Information: Minimum 50% of applicant’s sales to be documented through account turnover with bank(s).
-
-Question: Any Account turnover requirement for NUST Rice Finance?
-
-Answer the question using the context above.",Minimum 50% of applicant’s sales to be documented through account turnover with bank(s).,Minimum 50% of applicant’s sales to be documented through account turnover with bank(s).
-"Context:
-Product: NUST Auto Finance (NUST4Car)
-Information: 8. Can I avail more than one vehicle through Auto loan facility?
-
-Question: Minimum 30%  equity +(1st Year Insurance + documentation charges) is required as down payment
-
-Answer the question using the context above.",8. Can I avail more than one vehicle through Auto loan facility?,Minimum 30%  equity +(1st Year Insurance + documentation charges) is required as down payment
-"Context:
-Product: NUST Imarat Finance (NIF)
-Information: Rs. 3,000/- per installment
-
-Question: Are there any late payment charges?
-
-Answer the question using the context above.","Rs. 3,000/- per installment","Rs. 3,000/- per installment
----
-Rs. 3,000/- per installment
----
-Product: NUST Sahar Finance (NSF)
-Information: Rs. 1,000/- per installment
-*In case of delay of installment, commercial rate will be charged on the outstanding principal amount."
-"Regarding Home Remittance Services (HOME REMITTANCE), Can remittance be sent from anywhere to Pakistan?","Yes, remittance can be sent from around the globe to Pakistan through our agent Partners like Western Union, Mastercard, Dandelion Payments (RIA) etc.
-For more information please go through the below link:
-https://NUSTbank.com/services-home-remittance-our-partners/","Yes, remittance can be sent from around the globe to Pakistan through our agent Partners like Western Union, Mastercard, Dandelion Payments (RIA) etc.
-For more information please go through the below link:
-https://NUSTbank.com/services-home-remittance-our-partners/"
-"Regarding Profit & Loss Sharing Account (PLS), What are the main features of NUST Profit & Loss Sharing (PLS) Account?","Profit Payment | Profit Rate
-Offered in LCY (PKR) & FCY (USD, GBP, EUR, JPY & AED) | Semi-Annually | 0.19
-Account opening deposit of Rs.100 for LCY, US $500 or equivalent for FCY | PLS Pensioners Account
-Debit Card Issuance against LCY account | Profit Payment | Profit Rate
-Profit Calculation- Monthly Average Balance | Semi-Annually | 0.1925
-Profit Payment Frequency- Semi-Annually","Profit & Loss Sharing (PLS) Account
-Offered in LCY (PKR) & FCY (USD, GBP, EUR, JPY & AED)
-Account opening deposit of Rs.100 for LCY, US $500 or equivalent for FCY
-Debit Card Issuance against LCY account
+"Regarding NUST Freelancer Digital Account (NFDA), What are the free benefits of NUST Freelancer Digital Account?","Free Issuance of First Cheque book (10 Leaves)*
+Free First Issuance of UnionPay Debit Card*
+Free First Cheque Book & Debit Card Delivery*
+Free SMS alerts facility (Digital Transactions)
+Free accidental Death & Disability Insurance/Takaful up to PKR 2.5 mn on monthly average balance of PKR 100,000","* Free Issuance of First Cheque book (10 Leaves)
+* Free First Issuance of UnionPay Debit Card
+* Free First Cheque Book & Debit Card Delivery
+* Free SMS alerts facility (Digital Transactions)
+* Free accidental Death & Disability Insurance/Takaful up to PKR 2.5 mn on monthly average balance of PKR 100,000"
+"Regarding NUST Rice Finance (NRF), Any Account turnover requirement for NUST Rice Finance?",Minimum 50% of applicant’s sales to be documented through account turnover with bank(s).,Minimum 50% of applicant’s sales to be documented through account turnover with bank(s).
+"Regarding NUST Flour Mill Finance (NFMF), What are the service/documentation/legal charges in NUST Flour Mill Finance?",At actual,"* Initial Application: Rs. 1000/- (Non-refundable) + 0.05% of the total limit
+* Late Payment Charges:
+	+ First occurrence: Rs. 1500/-
+	+ Subsequent occurrences: Rs. 3000/-
+* Insurance Premium
+* Annual Processing Fee: Rs. 2500/-
+* Late Payment Charges on overdue amount
+* Monthly Service Charge: Rs. 2000/-"
+"Regarding NUST Life Insurance (Nust Life), Can I purchase Bancassurnce policy from my account maintained with NUST Bank?","Yes, every customer who attain the age of 18 and have account with NUST Bank can eligible to purchse Bancassurnce policy from his account.
+Bancassurance is offiered by following three Insurance Provider companies:
+- NUST Life Assurancee Company Ltd
+- EFU Life Assurence Company Ltd
+- Jubilee Life Insurance Company Ltd.","Yes, every customer who attain the age of 18 and have account with NUST Bank can eligible to purchse Bancassurnce policy from his account."
+"Regarding NUST Ujala Finance (NUF), What is the current Mark-up rate of NUST Ujala Finance?","6 % per annum for all
+*Markup at 12M Kibor + 4% Per Annum to be charged till refinance claim reimbursed by SBP.","6 % per annum for all
+*Markup at 12M Kibor + 4% Per Annum to be charged till refinance claim reimbursed by SBP."
+"Regarding Roshan Digital Account (RDA), Does NUST Bank offer Any account for Non-Resident Pakistanis (NRPs)?","Yes Roshan Digital Account. Specially Designed for Individual Non-Resident Pakistanis (NRPs) seeking to undertake banking, payment and investment activities in Pakistan.","Yes Roshan Digital Account. Specially Designed for Individual Non-Resident Pakistanis (NRPs) seeking to undertake banking, payment and investment activities in Pakistan."
+"Regarding NUST Hunarmand Finance (NHF), Is there any business loan product offered by NUST for families of armed forces and retired officers of the armed forces?","NUST Hunarmand Finance is a sub product of PMYB&ALS which is structured with an objective to provide business opportunity to specific target market.
+- Retired commissioned, junior commissioned, non-commissioned officers of the armed forces and their family members i.e. spouse and children
+- Spouse and children of serving commissioned, junior commissioned and non-commissioned officers of armed forces.","NUST Hunarmand Finance is a sub product of PMYB&ALS which is structured with an objective to provide business opportunity to specific target market.
+- Retired commissioned, junior commissioned, non-commissioned officers of the armed forces and their family members i.e. spouse and children
+- Spouse and children of serving commissioned, junior commissioned and non-commissioned officers of armed forces."
+"Regarding NUST Mastercard Credit Card (NMC), What is the minimum and maximum financing amount?","Clean facility, Minimum Rs. 30,000/- and maximum up to 3.0 Million or as per 40% Debt Burden Ratio subject to SBP PRs.","Minimum Financing Limit: Rs. 50,000/-
+Maximum Financing Limit: Up to Rs. 30,000/- per individual on card based account"
+"Regarding Value Plus Current Account (VPCA), Are there any insurance benefits associated with VPCA'?","- ATM Cash Withdrawal Insurance Coverage
+- 24 Hours World-wide “Accidental Death & Permanent Disability” Insurance Coverage **","Yes, NUST offers following insurance facilities on Value Plus Current Account :
+ATM Cash Withdrawal Insurance Coverage
+24 Hours World-wide “Accidental Death & Permanent Disability” Insurance Coverage"
+"Regarding NUST Sahar Finance (NSF), What is the maximum tenure of NUST Sahar Finance?","Short Term Finance/Working Capital
+Maximum 3 years with no grace period | Long Term Finance
+Maximum 5 years (inclusive of grace period up to 6 months)
+*Markup will be recovered during grace period","Short Term Finance/Working Capital
+Maximum 3 years with no grace period | Long Term Finance
+Maximum 5 years (inclusive of grace period up to 6 months)
+*Markup will be recovered during grace period"
+Show me the Rate Sheet July 1 2024,"Main
+Indicative Profit Rates
+ (For Conventional Deposit Products on “Per Annum” basis)
+Effective July 1st, 2024
+SAVINGS ACCOUNTS | TERM DEPOSITS
+Change
+NUST Asaan Account | Short Notice Deposit Receipt (SNDR)
+Profit Payment | Profit Rate | Tenor | Payout | Profit Rate
+Semi-Annually | 0.19 | 7 Days | Maturity | 0.165
+29 Days | 0.165
+PLS Savings
+Profit Payment | Profit Rate | Term Deposits
+Semi-Annually | 0.19 | Tenor | Payout | Profit Rate
+One Month | Maturity | 0.17
+Little Champs Account | Two Months | 0.17
+Profit Payment | Profit Rate | Three Months | 0.17
+Semi-Annually | 0.19 | Six Months | 0.17
+One Year | 0.175
+NUST Special Deposit Account (ASDA) | Two Years | 0.155
+Profit Payment | Profit Rate | Three Years | 0.15
+Monthly/Semi-Annually | 0.19 | Five Years | 0.14
+NUST Waqaar Account - Senior Citizen | Term Deposits
+Profit Payment | Profit Rate | Tenor | Payout | Profit Rate
+Monthly | 0.19 | Three Months | Monthly | 0.16
+Six Months | Monthly | 0.16
+PakWatan Remittance Account | Six Months | Quarterly | 0.1625
 Profit Payment | Profit Rate
-Profit Calculation- Monthly Average Balance | Semi-Annually | 0.19
-Profit Payment Frequency- Semi-Annually
-*Subsequent profit payment will be credited semi-annually on June 30th & December 31st
-Profit Calculation- Monthly Average Balance | Semi-Annually | 0.1925
-Profit Payment Frequency- Semi-Annually
-Product: Profit & Loss Sharing Account (PLS)
-Information: Yes, Profit & Loss Sharing Account is specially designed to meet the transactional and savings need of customers."
-"Regarding NUST Sahar Finance (NSF), Is there any minimum business age requirement?","Existing Business Should be women owned enterprises with Minimum 01 year of business registration
-New Business: Nil","New Business
-Between 20-50 years at the time of application | Existing Business
-Between 20-55 years at the time of application
----
-Existing Business Should be women owned enterprises with Minimum 01 year of business registration
-New Business: Nil"
-"Regarding NUST Flour Mill Finance (NFMF), What is the maximum tenure of NUST Flour Mill Finance?",Maximum 1 year as per clean-up corridors,"Maximum 1 year as per clean-up corridors
----
-Maximum 1 year as per clean-up corridors
----
-Product: NUST Flour Mill Finance (NFMF)
-Information: Per party (single entity) can avail up to Rs. 75M for ME and Rs. 25M for SE"
-"Regarding NUST Sahar Finance (NSF), What is the applicant legal structure of business in order to avail NUST Sahar Finance?","Sole Proprietor, Partnership Firm, Private Limited Company, Single Member Company (SMC), Business Individuals (Women Owned)
-*In Partnership firm/ Private Limited Company, having 02 partners or directors, minimum 51% shareholder/ CEO should be a a femle who should also be the applicant. If there are more than 02 partners or directors, major share holder should be women , who should also be CEO and applicant","Sole Proprietor, Partnership Firm, Private Limited Company, Single Member Company (SMC), Business Individuals (Women Owned)
-*In Partnership firm/ Private Limited Company, having 02 partners or directors, minimum 51% shareholder/ CEO should be a a femle who should also be the applicant. If there are more than 02 partners or directors, major share holder should be women, who should also be CEO and applicant"
-"Regarding NUST Fauri Business Finance (NFBF), What are the service/documentation/legal charges in Ask Fauri Business Finance?",At actual,"At actual
----
-Product: NUST Fauri Business Finance (NFBF)
-Information: Flat @ Rs. 3,000/- (at the time of initiating and on each renewal)"
-"Regarding Value Plus Current Account (VPCA), What is the opening and minimum balance requirement for VPCA?","- No Opening Balance Requirements
-- No Minimum Monthly Average Balance Requirements
-- Allocation of Lockers (upon availability)**","- No Opening Balance Requirements
-- No Minimum Monthly Average Balance Requirements
-- Allocation of Lockers (upon availability)**
----
-Product: Value Plus Current Account (VPCA)
-Information: NUST Value Plus Current Account is specially designed for individuals to cater their financial needs."
-"Regarding Value Plus Premium Business Account (VPBA), Private & Public Limited Companies","Corporate & Commercial Organizations
-NGOs / NPOs / Trust/ Charitable Organizations","Product: Value Plus Premium Business Account (VPBA)
-Information: Profit Payment | Profit Rate
-Tier 2 & Tier 3 – Banks
-NGOs / NPOs / Trust/ Charitable Organizations | Profit Payment | Profit Rate
-Medium Enterprises
-Partnership Firms | Monthly/Semi-Annually | 0.19
-Corporate & Commercial Organizations
-Private & Public Limited Companies | Quarterly/Half Yearly | 0.155
-NGOs / NPOs / Trust/ Charitable Organizations | Monthly | 0.20
-Medium Enterprises
-Profit Calculation- At 12M Kibor + 2.50%
-Partnership Firms | Quarterly | 0.175
-Corporate & Commercial Organizations
-Profit Calculation- At 12M Kibor + 2.75%
-Profit Payment Frequency- Semi-Annually
-Tier 2 & Tier 3 – Banks | Annually | 0.15
-NGOs / NPOs / Trust/ Charitable Organizations | Annually | 0.18
-Medium Enterprises
-Partnership Firms |  | 11
-Corporate & Commercial Organizations
-Private & Public Limited Companies |  | 11.5
-NGO/ NPO/ Trust/ Charitable Organization |  | 12
-Medium Enterprise
-Mark-up Rejection Criteria | General Category | Armed Forces Community
-Small Enterprises | Armed Forces Family
-Product: Value Plus Premium Current Account for SMEs
-Information: * All except NUST employees
-* In case of death of the account holder, the funds in the account of the account holder will be restricted from being withdrawn until a valid Photo identity is produced, in compliance with Anti-Money Laundering Regulations.
-* Debit Card & Cheque Book issuance as per prevailing SOC
-* Profit calculation on monthly average balance
-* Profit payment on monthly basis on same month debit
-* Profit rate on savings account average balance
-* Note: This product is not suitable for all, Please read the PPM & NUST Bank’s Credit Cards & Premium Current Account Documents before finalizing."
-"Context:
-Product: PakWatan Remittance Account (PWRA)
-Information: Yes PakWatan Remittance Account.
-Through the PakWatan Remittance Account, beneficiaries can quickly and securely receive remittances from their loved one living abroad directly into their bank account without visiting the branch.
-
-Question: Is there any account NUST Bank is offering for remittance purposes ?
-
-Answer the question using the context above.","Yes PakWatan Remittance Account.
-Through the PakWatan Remittance Account, beneficiaries can quickly and securely receive remittances from their loved one living abroad directly into their bank account without visiting the branch.","Yes PakWatan Remittance Account.
-Through the PakWatan Remittance Account, beneficiaries can quickly and securely receive remittances from their loved one living abroad directly into their bank account without visiting the branch.
----
-o First Cheque Book of 25 Leaves*
-o NUST Visa Debit Card Issuance* (annual and replacement fee would apply)
-o Bankers Cheque Issuance
-o Inter Branch Online Cash Withdrawal/ Deposit (Online)
-o Internal Fund Transfer within NUST via branch (Online Transfer)
-o Internet Banking
-o SMS on digital transactions
-o E-statements
-* For Current Account only"
-"Regarding NUST Special Deposit Account (NSDA), What are the free services available with ASDA?","Free E-statement & I-Net Banking
-Free Inter Branch Online Cash Deposit/Withdrawal (Online)
-Free Internal Fund Transfer within NUST via branch (Online Transfer)
-Free Banker’s Cheque Issuance
-Free SMS Alerts on Digital Transaction","Free E-statement & I-Net Banking
-Free Inter Branch Online Cash Deposit/Withdrawal (Online)
-Free Internal Fund Transfer within NUST via branch (Online Transfer)
-Free Banker’s Cheque Issuance
-Free SMS Alerts on Digital Transaction
----"
-"Regarding NUST Ujala Finance (NUF), For which purposes NUST Ujala Finance is being offered?","SME, NUST Employees and Domestic: Energy generation for own use or for supply to the distribution company / NEPRA | Vendors/Suppliers: Onward leasing of renewable energy equipment / deferred payment sales / rental basis or sale of electricity to ultimate users","SME, NUST Employees and Domestic: Energy generation for own use or for supply to the distribution company / NEPRA | Vendors/Suppliers: Onward leasing of renewable energy equipment / deferred payment sales / rental basis or sale of electricity to ultimate users
----
-Product: NUST Ujala Finance (NUF)
-Information: SME, NUST Employees and Domestic: Energy generation for own use or for supply to the distribution company / NEPRA | Vendors/Suppliers: Onward leasing of renewable energy equipment / deferred payment sales / rental basis or sale of electricity to ultimate users
----
-i. Small Enterprise – upto Rs. 15 M
-ii. Medium Enterprise – upto Rs. 25M
-iii. Domestic users - from Rs. 0.5M to Rs. 3.0M
-iv. NUST employees: - upto Rs. 3.00M
-v. Vendors/Suppliers:: From Rs. 5M to 25 Million – (Single Vendor)"
-"Regarding NUST Freelancer Digital Account (NFDA), What is the Target Market?",Individuals running a freelance service business,"Individuals running a freelance service business
----
-Product: NUST Freelancer Digital Account (NFDA)
-Information: NUST Freelancer Digital Account is exclusively designed for Freelancers, so that they can receive their payments directly in a bank account and enjoy other lifestyle banking services as well."
-"Context:
-Product: NUST Fauri Business Finance (NFBF)
-Information: Flat @ Rs. 3,000/- (at the time of initiating and on each renewal)
-
-Question: What are the processing charges for Ask Fauri Finance Application?
-
-Answer the question using the context above.","Flat @ Rs. 3,000/- (at the time of initiating and on each renewal)","Flat @ Rs. 3,000/- (at the time of initiating and on each renewal)"
-"Context:
-Product: NUST Sahar Account (NSA)
-Information: - First Debit Card Issuance*
-- SMS Alerts on Digital Transactions
-- I-Net Banking
-. Internal Fund Transfer within NUST via branch (Online Transfer)
-. Inter Branch Online Cash Withdrawal/ Deposit (Online)
-- E-statement Facility
-- Debit card and Cheque book delivery at customer address & activation via Contact Centre
-
-Question: What are the free services offered on NUST Sahar Savings Account?
-
-Answer the question using the context above.","- First Debit Card Issuance*
-- SMS Alerts on Digital Transactions
-- I-Net Banking
-. Internal Fund Transfer within NUST via branch (Online Transfer)
-. Inter Branch Online Cash Withdrawal/ Deposit (Online)
-- E-statement Facility
-- Debit card and Cheque book delivery at customer address & activation via Contact Centre","- First Debit Card Issuance*
-- SMS Alerts on Digital Transactions
-- I-Net Banking
-. Internal Fund Transfer within NUST via branch (Online Transfer)
-. Inter Branch Online Cash Withdrawal/ Deposit (Online)
-- E-statement Facility
-- Debit card and Cheque book delivery at customer address & activation via Contact Centre"
-"Context:
-Product: NUST Asaan Account (NAA)
-Information: Resident Pakistani individuals who do not maintain/have any other account (single or joint) in NUST Bank Limited are eligible to open the NAA in Pak rupees as a single/joint account.
-
-Question: What is the Eligibility Criteria for NAA?
-
-Answer the question using the context above.",Resident Pakistani individuals who do not maintain/have any other account (single or joint) in NUST Bank Limited are eligible to open the NAA in Pak rupees as a single/joint account.,"Resident Pakistani individuals who do not maintain/have any other account (single or joint) in NUST Bank Limited are eligible to open the NAA in Pak rupees as a single/joint account.
----
-Resident Pakistani individuals who do not maintain/have any other account (single or joint) in NUST Bank Limited are eligible to open the NAA in Pak rupees as a single/joint account.
----
-NAA can be opened both in Current & Savings"
-"Context:
-Product: NUST Personal Finance (PF)
-Information: No, the availability of applicants & their employers is mandatory within Pakistan for applying clean Personal Finance.
-
-Question: Can overseas Pakistanis obtain Personal Finance facility from NUST?
-
-Answer the question using the context above.","No, the availability of applicants & their employers is mandatory within Pakistan for applying clean Personal Finance.","No, the availability of applicants & their employers is mandatory within Pakistan for applying clean Personal Finance.
----"
-"Regarding Home Remittance Services (HOME REMITTANCE), In which currency will I receive my remittance?",All home remittance payments are disbursed in Pak Rupees.,All home remittance payments are dispensed in Pak Rupees.
-"Context:
-Product: Home Remittance Services (HOME REMITTANCE)
-Information: You can receive your home remittance from any of NUST 600+ domestic branches nationwide if you have a valid CNIC and Transaction Unique Reference No. / Pin code.
-
-Question: Can I receive remittance in Pakistan if I do not have a bank account with any bank?
-
-Answer the question using the context above.",You can receive your home remittance from any of NUST 600+ domestic branches nationwide if you have a valid CNIC and Transaction Unique Reference No. / Pin code.,"You can receive your home remittance from any of NUST 600+ domestic branches nationwide if you have a valid CNIC and Transaction Unique Reference No. / Pin code.
----
-You can receive your home remittance from any of NUST 600+ domestic branches nationwide if you have a valid CNIC and Transaction Unique Reference No. / Pin code.
----
-Yes, remittance can be sent from around the globe to Pakistan through our agent Partners like Western Union, Mastercard, Dandelion Payments (RIA) etc.
-For more information please go through the below link:
-https://NUSTbank.com/services-home-remittance-our-partners/"
-"Regarding Prime Minister Youth Business & Agriculture Loan Scheme (PMYB &ALS), Is there any quota for womens?",25% of the loans will go to women borrowers,"25% of the loans will go to women borrowers
-- Long term / Development Loans
-- Working capital / Production Loans"
-"Regarding NUST Special Deposit Account (NSDA), What is the minimum balance requirement of NUST Special Deposit Account?","NUST Special Deposit Account (ASDA)
-No Minimum Monthly Average Balance Requirement | Profit Payment | Profit Rate
-No Minimum Opening Balance Requirement | Monthly/Semi-Annually | 0.19","No Minimum Monthly Average Balance Requirement | Profit Payment | Profit Rate
-No Minimum Opening Balance Requirement | Monthly/Semi-Annually | 0.19
----
-NUST Special Deposit Account (ASDA)
-No Minimum Monthly Average Balance Requirement | Profit Payment | Profit Rate
-No Minimum Opening Balance Requirement | Monthly/Semi-Annually | 0.19
----
-- Minimum deposit for opening of the NUST Waqaar – Savings account is Rs.1,000
-- Minimum deposit for opening an NUST Waqaar – Term Deposit account is Rs.25,000
-- Note: Customer must be an account holder of NUST for placement of funds in NUST Waqaar-Term Deposit"
-"Regarding NUST Asaan Account (NAA), o Transaction limit is Rs. 1,000,000/- for total credit balance and total debit per month","o Cross border (outward) transactions shall not be allowed except in case of international transactions carried out through debit cards
-o Customers can place their funds in Bank’s prescribed TDR products. However, the maximum credit balance limit will be inclusive of funds placed in TDRs
-* For Current Account only","In order to avoid any inconvenience, all customers are requested to update their contact details with the Bank. You may update your details by visiting our website and clicking on “Update Contact Details” under “Customer Services” section or by calling our Customer Services centre at +92 (51) 111-000-787.
-https://NUSTbank.com/services-and-fees/
-Email address: CustomerServices@NUSTbank.com.pk"
-"Context:
-Product: NUST Rice Finance (NRF)
-Information: Cash Finance
-Max 270 Days or Clean-up corridors whichever is earlier | Running Finance
-One Year
-
-Question: What is the maximum tenure of NUST Rice Finance?
-
-Answer the question using the context above.","Cash Finance
-Max 270 Days or Clean-up corridors whichever is earlier | Running Finance
-One Year","Cash Finance
-Max 270 Days or Clean-up corridors whichever is earlier | Running Finance
-One Year
----
-Maximum 1 year as per clean-up corridors"
-"Context:
-Product: NUST Imarat Finance (NIF)
-Information: Specifically for New Business:
-i) Only Professionals i.e. Chartered Accountants, Doctors, Engineers, IT Professionals, and consultants etc, with minimum 02 years professional experience.
-ii) Retired professionals from armed forces and families of serving armed forces officers
-*No Professional Qualification Required for existing business
-
-Question: Any mandatory qualification/experience required?
-
-Answer the question using the context above.","Specifically for New Business:
-i) Only Professionals i.e. Chartered Accountants, Doctors, Engineers, IT Professionals, and consultants etc, with minimum 02 years professional experience.
-ii) Retired professionals from armed forces and families of serving armed forces officers
-*No Professional Qualification Required for existing business","Specifically for New Business:
-i) Only Professionals i.e. Chartered Accountants, Doctors, Engineers, IT Professionals, and consultants etc, with minimum 02 years professional experience.
-ii) Retired professionals from armed forces and families of serving armed forces officers
-*No Professional Qualification Required for existing business"
-"Regarding NUST Asaan Digital Remittance Account (NADRA), What is the Account type of NUST Asaan Digital Remittance Account ? is it Current or Saving?",NUST Asaan Digital Remittance account is a Current Account in PKR currency,NUST Asaan Digital Remittance account is a Current Account in PKR currency
-"Regarding NUST Asaan Digital Remittance Account (NADRA), What is the Target Market?",Individuals- Beneficiaries (families) of Pakistanis working abroad,"NUST Asaan Digital Account is specially designed for unbanked / under-banked customer segments. This account is most suited for but not limited to skilled/unskilled workforce
-Individuals- Beneficiaries (families) of Pakistanis working abroad"
-"Regarding NUST Flour Mill Finance (NFMF), What are the insurance charges?",At actual,"At actual
-- Personal Guarantees of borrowers
-- 02 Post Dated cheques for installment amount
-- 01 Post Date cheque for balloon payment (or liquidated on sale of output)
-- 01 Post Dated cheque for principal amount + markup as security against potential default
-- 01 Bank Guarantee (for ME; Vendors/Suppliers)"
-"Context:
-Product: NUST Freelancer Digital Account (NFDA)
-Information: Free Issuance of First Cheque book (10 Leaves)*
-Free First Issuance of UnionPay Debit Card*
-Free First Cheque Book & Debit Card Delivery*
-Free SMS alerts facility (Digital Transactions)
-Free accidental Death & Disability Insurance/Takaful up to PKR 2.5 mn on monthly average balance of PKR 100,000
-
-Question: What are the free benefits of NUST Freelancer Digital Account?
-
-Answer the question using the context above.","Free Issuance of First Cheque book (10 Leaves)*
-Free First Issuance of UnionPay Debit Card*
-Free First Cheque Book & Debit Card Delivery*
-Free SMS alerts facility (Digital Transactions)
-Free accidental Death & Disability Insurance/Takaful up to PKR 2.5 mn on monthly average balance of PKR 100,000","Free Issuance of First Cheque book (10 Leaves)*
-Free First Issuance of UnionPay Debit Card*
-Free First Cheque Book & Debit Card Delivery*
-Free SMS alerts facility (Digital Transactions)
-Free accidental Death & Disability Insurance/Takaful up to PKR 2.5 mn on monthly average balance of PKR 100,000"
-"Context:
-Product: App Features / Functionalities
-Information: Yes, after logging into the app, go to 'Profile' → 'Change MPIN' and follow the prompts to reset your MPIN securely.
-
-Question: Can I reset my MPIN through the app?
-
-Answer the question using the context above.","Yes, after logging into the app, go to 'Profile' → 'Change MPIN' and follow the prompts to reset your MPIN securely.","Yes, after logging into the app, go to 'Profile' → 'Change MPIN' and follow the prompts to reset your MPIN securely."
-"Regarding NUST Fauri Business Finance (NFBF), What is the Eligibility Criteria for business entity in Ask Fauri Business Finance?",All except individuals,"- S Sole Proprietorship Concerns
-- Partnership Firms
-- Private Limited Companies
-- Public Limited Companies
-- NGOs
-- Clubs, Societies, Associations, Organizations etc."
-"Regarding Current Deposit Account (CDA), What are the main features of Current Deposit Account?","Offered in LCY (PKR) & FCY (USD, GBP, EUR, JPY & AED)
-Minimum Account Opening Deposit of Rs.5,000 for LCY, US $500 or equivalent for FCY
-No Minimum Monthly Balance Requirement
-Debit Card for PKR Account","Offered in LCY (PKR) & FCY (USD, GBP, EUR, JPY & AED)
-Minimum Account Opening Deposit of Rs.5,000 for LCY, US $500 or equivalent for FCY
-No Minimum Monthly Balance Requirement
-Debit Card for PKR Account
-Internet Banking facility available
-SMS Alerts on digital transactions
-Bill Payments & Funds Transfer via Mobile Apps & Internet
-Free E-statement & I-Net Banking
-Free Inter Branch Online Cash Withdrawal/ Deposit (Online)
-Free Internal Fund Transfer within NUST via branch (Online Transfer)"
-"Regarding Profit & Loss Sharing Account (PLS), What is the Target Market?","Individuals (either singly or jointly)
-Proprietorship Concerns
-Partnership Firms","Individuals (either singly or jointly)
-Proprietorship Concerns
-Partnership Firms
----
-
-This product is specially designed to meet the transactional and savings needs of customers who want to carry out their banking transactions and also get profit on their savings."
-"Regarding Home Remittance Services (HOME REMITTANCE), What types of Inward Home Remittance products does NUST Bank offer ?","NUST offers the following Home Remittance Products to cater to the needs of various home remittance
-beneficiaries in Pakistan:
-- Cash Over the Counter (CoC) payments for walk-in customers
-- NUST Account Transfer
-- Other Bank Account Transfer via Inter Bank Funds Transfer (IBFT) & Real Time Gross Settlement (RTGS)","NUST offers the following Home Remittance Products to cater to the needs of various home remittance
-beneficiaries in Pakistan:
-- Cash Over the Counter (CoC) payments for walk-in customers
-- NUST Account Transfer
-- Other Bank Account Transfer via Inter Bank Funds Transfer (IBFT) & Real Time Gross Settlement (RTGS)
-- Roshan Digital Account I NUST Special Deposit Account, Monthly Profit Payment in PKR, Currency: USD / GBP / EUR / JPY
-- Roshan Save Account | Monthly | 0.19
-- Roshan Pensioners Account | Monthly | 0.1675
-- Freelancer’s Account | Daily | 0.5625
-- Prime Minister Youth Business & Agriculture Loan Scheme (PMYB &ALS)
-- National Youth Business & Agriculture Loan Scheme (NYB &ALS)
-- Credit for Rural Development (CRD)
-- Credit for Women Entrepreneurs (CWE)
-- Credit for Small and Medium Enterprises (CMSE)
-- Commercial Credit (CC)
-- Domestic Long Term Loan Programmes (DLTLPs)
-- NUST Asaan Finance (NAF)
-- Subordinate Debt Obligation (SDO)"
-"Regarding App Features / Functionalities, Is the mobile app available in multiple languages?","Currently, the NUST mobile app supports English only. Multilingual support is being considered for future updates.","Currently, the NUST mobile app supports English only. Multilingual support is being considered for future updates."
-"Regarding NUST Asaan Digital Account (NADA), Is NUST Bank offering a simple Digital Banking Account  ?","Yes, NUST Asaan Digital Account is being offered","Yes, NUST Asaan Digital Account is being offered
----
-Product: NUST Asaan Digital Account (NADA)
-Information: Yes
----
-NUST Asaan Digital Account is specially designed for unbanked / under-banked customer segments. This account is most suited for but not limited to skilled/unskilled workforce"
-"Context:
-Product: Current Deposit Account (CDA)
-Information: Current Deposit Account is specially designed for customers with regular banking transactional needs and do not need Profit.
-
-Question: Is your bank offering any Current Deposit account ?
-
-Answer the question using the context above.",Current Deposit Account is specially designed for customers with regular banking transactional needs and do not need Profit.,"Current Deposit Account is specially designed for customers with regular banking transactional needs and do not need Profit.
----
-Product: Current Deposit Account (CDA)
-Information: Individuals (either singly or jointly)
-Proprietorship Concerns, Business Owners
-Partnership Firms
-Public and Private Limited Companies
-Government Organizations
-Corporations, Clubs, Societies, NGOs etc."
-"Context:
-Product: NUST Maximiser Account (NMA)
-Information: Profit Rate:
-- Tenure: 1, 2, 3 & 5 Years | NUST Maximiser - Term Deposit
-- Minimum investment: Rs. 100,000 | Tenure | Payout | Profit Rate
-- Roll-over option available | One Year | Monthly | 0.1675
-- Attractive profit payments on monthly basis. | Two Years | 0.1425
-Three Years | 0.13752
+Monthly | 0.19 | NUST Waqaar Account - Senior Citizen - Term Deposit
+Tenor | Payout | Profit Rate
+NUST Sahar Savings Account | One Year | Monthly | 0.1675
+Profit Payment | Profit Rate
+Monthly | 0.19 | NUST Bachat Account -Individual/Corporate and                                                                                                                                                                                                                                      Value Plus Term Deposit*
+NUST Maximiser Savings Account | Tenor | Payout | Profit Rate
+Profit Payment | Profit Rate | One Year | Monthly | 0.15
+Monthly | 0.19 | Two Years | Monthly/ Quarterly/ Annual | 0.13
+Quarterly | 0.1905 | *Discontinued - No Fresh Booking Allowed
+Semi-Annually | 0.191
+Annually | 0.1915 | NUST Maximiser - Term Deposit
+Tenor | Payout | Profit Rate
+PLS Pensioners Account | One Year | Monthly | 0.1675
+Profit Payment | Profit Rate | Two Years | 0.1425
+Semi-Annually | 0.1925 | Three Years | 0.13752
 Five Years | 0.13
+NUST Sahar - Term Deposit
+Tenor | Payout | Profit Rate
+One Year | Monthly | 0.17
+Three Years | 0.14
+Five Years | 0.1325
+FCY | USD | GBP | EUR
+Savings Account | 0.0025 | 0.0025 | 0
+Term Deposits | 0.0025 | 0.0025 | 0","Main
+Indicative Profit Rates
+(For Conventional Deposit Products on “Per Annum” basis)
+Effective July 1st, 2024
+SAVINGS ACCOUNTS | TERM DEPOSITS
+Profit Payment | Profit Rate | Tenor | Payout | Profit Rate
+Semi-Annually | 0.165
+29 Days | 0.165
+PLS Savings
+Profit Payment | Profit Rate | Profit Rate | Tenor | Payout | Profit Rate
+Semi-Annually | 0.17
+One Month | 0.17
+Two Months | 0.17
+Three Months | 0.17
+Six Months | 0.17
+One Year | 0.175
+NUST Special Deposit Account (ASDA) | Profit Rate | Profit Rate | Tenor | Payout | Profit Rate
+Two Years | 0.155
+Three Years | 0.15
+Monthly/Semi-Annually | 0.19
+NUST Waqaar Account - Senior Citizen | Profit Payment | Profit Rate | Profit Rate | Tenor | Payout | Profit Rate
+Monthly | 0.16
+Six Months | Monthly | 0.16
+Quarterly | 0.1625
+NUST Waqaar Account - Senior Citizen - Term Deposit | Profit Rate | Profit Rate | Tenor | Payout | Profit Rate
+NUST Sahar Savings Account | Profit Payment | Profit Rate | Profit Rate | Tenor | Payout | Profit Rate
+Monthly | 0.1675
+NUST Bachat Account -Individual/Corporate and Value Plus Term Deposit* | Profit Rate | Profit Rate | Tenor | Payout | Profit Rate
+NUST Maximiser Savings Account | Profit Payment | Profit Rate | Profit Rate | Tenor | Payout | Profit Rate
+Profit Payment | Profit Rate | One Year | Monthly | 0.15
+Monthly | 0.19
+Quarterly/Annual | 0.1905
+Semi-Annually | 0.191
+Annually | 0.1915
+NUST Maximiser - Term Deposit | Profit Rate | Profit Rate | Profit Rate | Tenor | Payout | Profit Rate
+NUST Sahar - Term Deposit | Profit Payment | Profit Rate | Profit Rate | Tenor | Payout | Profit Rate
+One Year | Monthly | 0.17
+Three Years | 0.14
+Five Years | 0.1325
+FCY | USD |"
+"Regarding PakWatan Remittance Account (PWRA), Are Local Credits allowed in PakWatan Remittance Account?",Local credits are also allowed in PakWatan Remittance Account,Local credits are also allowed in PakWatan Remittance Account
+"Regarding NUST Mortgage Finance (NMF), Can I obtain financing on my owned property by mortgaging it?","Yes, purpose of finance has to be in line with the purpose defined by regulator i.e.
+Financing for construction of house on owned residential plot.
+Balance Transfer Facility (BTF) against existing financing facility of borrower from other banks/ DFIs.
+Renovation of owned House/ Apartment/ Flat/ Residential Unit
+Extension/ Expansion/ Improvement of Residential Unit","Yes, purpose of finance has to be in line with the purpose defined by regulator i.e.
+Financing for construction of house on owned residential plot.
+Balance Transfer Facility (BTF) against existing financing facility of borrower from other banks/ DFIs.
+Renovation of owned House/ Apartment/ Flat/ Residential Unit
+Extension/ Expansion/ Improvement of Residential Unit"
+"Regarding NUST Asaan Digital Account (NADA), Is NUST Bank offering a simple Digital Banking Account  ?","Yes, NUST Asaan Digital Account is being offered","Yes, NUST Asaan Digital Account is being offered"
+"Regarding NUST Flour Mill Finance (NFMF), Is there any minimum age to avail financing in NUST Flour Mill Finance?","Age of borrower (in case of sole-proprietorship) must be minimum 20 years, however age not to exceed 65 years at the time of application. This age can be relaxed in case of effective succession planning for business operations.
+* This criteria is not applicable , if business concern is a partnership or limited company","Age of borrower (in case of sole-proprietorship) must be minimum 20 years, however age not to exceed 65 years at the time of application. This age can be relaxed in case of effective succession planning for business operations."
+"Regarding NUST Auto Finance (NUST4Car), Can I avail more than one vehicle through Auto loan facility?","Yes. Two vehicles can be availed simultaneously from NUST Bank, subject to Debt Burden Limitations
+9. Can I avail Auto loan facility, if I am not a Salaried Person/Businessman/","Yes. However, minimum 30% equity+(1st Year Insurance+documentation charges) is required as down payment."
+"Regarding Prime Minister Youth Business & Agriculture Loan Scheme (PMYB &ALS), What is the security requirement for availing PMYB & ALS?","Tier 2
+i. Clean; personal guarantee of the borrower
+ii. 02 Post Dated cheques for installment amount
+iii. 01 Post Dated cheque for full loan amount plus mark up as per amortization schedule | Tier 3
+i. Mortgage of residential / commercial / industrial property owned by borrower or third party
+ii. HPA on vehicle in the name of borrower or immediate family member i.e. parents, spouse, children, brothers or sisters.
+iii. Liquid security (lien on deposit, Saving certificates, TDRs etc.)","Tier 2:
+- Clean; personal guarantee of the borrower
+- 02 Post Dated cheques for installment amount
+- 01 Post Dated cheque for full loan amount plus mark-up as per amortization schedule
 
-Question: What are main Features of NUST Maximiser Term Deposit
-
-Answer the question using the context above.","Profit Rate:
-- Tenure: 1, 2, 3 & 5 Years | NUST Maximiser - Term Deposit
-- Minimum investment: Rs. 100,000 | Tenure | Payout | Profit Rate
-- Roll-over option available | One Year | Monthly | 0.1675
-- Attractive profit payments on monthly basis. | Two Years | 0.1425
-Three Years | 0.13752
-Five Years | 0.13","Profit Rate:
-- Tenure: 1, 2, 3 & 5 Years | NUST Maximiser - Term Deposit
-- Minimum investment: Rs. 100,000 | Tenure | Payout | Profit Rate
-- Roll-over option available | One Year | Monthly | 0.1675
-- Attractive profit payments on monthly basis. | Two Years | 0.1425
-Three Years | 0.13752
-Five Years | 0.13"
-"Regarding NUST Fauri Business Finance (NFBF), Is there any business age requirement?",No,"New Business : Between 20-50 years at the time of application
-Existing Business : Between 18-65 years at the time of application"
-"Context:
-Product: Profit & Loss Sharing Account (PLS)
-Information: Government Organizations, Corporations
-Clubs, Societies, Associations,
-NGOs/NPOs/Charitable Organizations
-
-Question: Public and Private Limited Companies
-
-Answer the question using the context above.","Government Organizations, Corporations
-Clubs, Societies, Associations,
-NGOs/NPOs/Charitable Organizations","Government Organizations, Corporations
-Clubs, Societies, Associations,
-NGOs/NPOs/Charitable Organizations
----"
+Tier 3:
+- Mortgage of residential/commercial/industrial property owned by borrower or third-party
+- HPA on vehicle in the name of borrower or immediate family members (parents, spouses, children, brothers/sisters)"
+"Regarding NUST Sahar Account (NSA), Is NUST Bank offering any account specifically for Women?","- Yes! NUST Bank Offers NUST Sahar Account.
+- Female Individual Resident Pakistanis can open the account offered under NUST Sahar Banking.","Yes! NUST Bank Offers NUST Sahar Account.
+Female Individual Resident Pakistanis can open the account offered under NUST Sahar Banking."
+"Regarding Home Remittance Services (HOME REMITTANCE), Can the Freelance payment  be made through PRI?",Yes Freelance payments is allowed under specfic arrangemnts with Tie-ups with allowed purposes as per SBP guidelines.,Yes Freelance payments is allowed under specfic arrangemnts with Tie-ups with allowed purposes as per SBP guidelines.
+"Regarding Roshan Digital Account (RDA), What are the main features of the Roshan Digital Account?","Offered in PKR and USD/GBP/EUR
+SMS Alerts on registered local and International numbers
+Bill Payments & Funds Transfer within Pakistan via Local ATMs & Internet Banking
+Investment in Naya Pakistan Certificates, Real Estate, NUST Term Deposits Receipts and Stock Market
+Note: Local Deposits are not allowed in RDA","Offered in PKR and USD/GBP/EUR
+SMS Alerts on registered local and International numbers
+Bill Payments & Funds Transfer within Pakistan via Local ATMs & Internet Banking
+Investment in Naya Pakistan Certificates, Real Estate, NUST Term Deposits Receipts and Stock Market
+Note: Local Deposits are not allowed in RDA"
+"Regarding Home Remittance Services (HOME REMITTANCE), Can I receive remittance in Pakistan if I do not have a bank account with any bank?",You can receive your home remittance from any of NUST 600+ domestic branches nationwide if you have a valid CNIC and Transaction Unique Reference No. / Pin code.,You can receive your home remittance from any of NUST 600+ domestic branches nationwide if you have a valid CNIC and Transaction Unique Reference No. / Pin code.
+"Regarding NUST Personal Finance (PF), What is the Application processing Charges?",It will be as per prevailing Schedule of Charges (SOC) or As per corporate arrangement.,Flat at Rs. 3000/- (at the time of initiating and on each renewal)
+"Regarding NUST Freelancer Digital Account (NFDA), What is the Account type of NUST Freelancer Digital Account ? is it Current or Saving?","NUST Freelancer Digital Account offered Current Account in PKR & FCY (USD, GBP, EUR, AED)","NUST Freelancer Digital Account offered Current Account in PKR & FCY (USD, GBP, EUR, AED)"
+"Regarding NUST Mastercard Credit Card (NMC), Can overseas Pakistanis obtain Credit Card facility from NUST?","Yes. The individuals maintaining FC account with NUST, Remittances/ Roshan Digital Account holders/
+Holders of Naya Pakistan Certificates can apply for NUST MasterCard Credit Cards on lien basis.
+Note: Facility can only be allowed in case of FC joint account maintaining with NUST (one person should be residing in Pakistan).","Yes, however, the availability of applicants & their employers is mandatory within Pakistan for applying clean Credit Card."
 "Regarding Current Deposit Account (CDA), What are the free services offered with Current Deposit Account?","Free SMS alerts facility on Digital Transactions
 Free E-statement & I-Net Banking
 Free Inter Branch Online Cash Deposit/Withdrawal (Online)
@@ -522,70 +189,35 @@ Free Internal Fund Transfer within NUST via branch (Online Transfer)
 Free Banker’s Cheque Issuance","Free SMS alerts facility on Digital Transactions
 Free E-statement & I-Net Banking
 Free Inter Branch Online Cash Deposit/Withdrawal (Online)
-Free Internal Fund Transfer within NUST via branch (Online Transfer)
-Free Banker’s Cheque Issuance
----
-Product: Current Deposit Account (CDA)
-Information: Free SMS alerts facility on Digital Transactions
-Free E-statement & I-Net Banking
-Free Inter Branch Online Cash Deposit/Withdrawal (Online)
-Free Internal Fund Transfer within NUST via branch (Online Transfer)
-Free Banker’s Cheque Issuance
----
-Product: Current Deposit Account (CDA)
-Information: Current Deposit Account is specially designed for customers with regular banking transactional needs and do not need Profit."
-"Context:
-Product: Home Remittance Services (HOME REMITTANCE)
-Information: Yes, it is mandatory to provide purpose of funds being sent to Pakistan.
-
-Question: Is it important to declare the purpose of the funds being sent to Pakistan?
-
-Answer the question using the context above.","Yes, it is mandatory to provide purpose of funds being sent to Pakistan.","Yes, it is mandatory to provide purpose of funds being sent to Pakistan."
-"Regarding Home Remittance Services (HOME REMITTANCE), Is there any list of branches I can access to get information?","The list of NUST domestic branches can be viewed from the Branch Locator available on our corporate website www.nustbank.com .
-https://NUSTbank.com/find-us/","The list of NUST domestic branches can be viewed from the Branch Locator available on our corporate website www.nustbank.com.
-https://NUSTbank.com/find-us/"
-"Context:
-Product: NUST Asaan Account (NAA)
-Information: Current profit rate is 20.50% which is paid Semi Annually.
-
-Question: What is the Profit rate on NAA Savings account?
-
-Answer the question using the context above.",Current profit rate is 20.50% which is paid Semi Annually.,"Current profit rate is 20.50% which is paid Semi Annually.
----
-NUST Asaan Account
-o Bi-annual account statements | Profit Payment | Profit Rate"
-"Context:
-Product: NUST Ujala Finance (NUF)
-Information: NUST Bank has structured a new financing product under the name of “NUST Ujala Finance (NUST Ujala Finance)” in light of SBP’s refinance scheme, under the ambit of SME. The Product Program has been developed to provide financing for installation of solar energy equipment as an alternate source of energy.
-
-Question: Is NUST Bank offering any financing product related to renewable/alternate energy solutions?
-
-Answer the question using the context above.","NUST Bank has structured a new financing product under the name of “NUST Ujala Finance (NUST Ujala Finance)” in light of SBP’s refinance scheme, under the ambit of SME. The Product Program has been developed to provide financing for installation of solar energy equipment as an alternate source of energy.","NUST Bank has structured a new financing product under the name of “NUST Ujala Finance (NUST Ujala Finance)” in light of SBP’s refinance scheme, under the ambit of SME. The Product Program has been developed to provide financing for installation of solar energy equipment as an alternate source of energy.
----
-SME, NUST Employees and Domestic: Energy generation for own use or for supply to the distribution company / NEPRA | Vendors/Suppliers: Onward leasing of renewable energy equipment / deferred payment sales / rental basis or sale of electricity to ultimate users"
-"Context:
-Product: NUST Sahar Account (NSA)
-Information: - Cross border (outward) transactions shall not be allowed except in case of international transactions carried out through debit cards
-
-Question: - Total Credit Balance Limit of up to Rs. 1,000,000
-
-Answer the question using the context above.",- Cross border (outward) transactions shall not be allowed except in case of international transactions carried out through debit cards,"- Cross border (outward) transactions shall not be allowed except in case of international transactions carried out through debit cards
-- Cross border (outward) transactions shall not be allowed except in case of international transactions carried out through debit cards
-Product: NUST Asaan Account (NAA)
-Information: o Cross border (outward) transactions shall not be allowed except in case of international transactions carried out through debit cards
-o Customers can place their funds in Bank’s prescribed TDR products. However, the maximum credit balance limit will be inclusive of funds placed in TDRs
-* For Current Account only"
-"Regarding NUST Personal Finance (PF), What are the minimum & maximum financing tenures?","Minimum 01 year
-Maximum 04 years (up to 7 years for Education Loan) or as per prevailing SBP PRs.","Minimum 01 year
-Maximum 04 years (up to 7 years for Education Loan) or as per prevailing SBP PRs.
----
-Minimum 01 year
-Maximum 04 years (up to 7 years for Education Loan) or as per prevailing SBP PRs.
----
-The minimum financing amount is Rs. 50,000/ (Rs. 35,000 for retired JCOs & Lower Cadre - Subject to pension with NUST).
-Maximum finance up to Rs. 3,000,000 (For non-prime customers) and up to Rs. 4,000,000 (For prime customers).
-Whereas maximum finance amount depends on case to case basis subject to income multiples within 40% Debt Burden Ratio or limit as defined in the PPM Personal Finance.The maximum financing limit will be up to 40% Debt Burden Ratio and as per SBP PR."
-"Regarding NUST Personal Finance (PF), Can I make balloon payments or premature termination of facility?","Yes, Balloon payment or premature termination option is available for all customers.
-Charges will be applied as per prevailing Bank’s schedule of charges / As per corporate arrangement.","Yes, Balloon payment or premature termination option is available for all customers.
-Charges will be applied as per prevailing Bank’s schedule of charges / As per corporate arrangement.
----"
+Free Internal Fund Transfer within NUST via branch (Online)
+Free Banker’s Cheque Issuance"
+"Regarding NUST Imarat Finance (NIF), Is there any minimum age to avail financing in NUST Imarat Finance?","New Business
+Minimum 30 years at the time of application, however age not to exceed 60 years at maturity of loan. | Existing Business
+Minimum 30 years at the time of application however age not to exceed 65 years at maturity of loan.","New Business
+Minimum 30 years at the time of application, however age not to exceed 60 years at maturity of loan.
+Existing Business
+Minimum 30 years at the time of application however age not to exceed 65 years at maturity of loan."
+"Regarding App Features / Functionalities, Can I reset my MPIN through the app?","Yes, after logging into the app, go to 'Profile' → 'Change MPIN' and follow the prompts to reset your MPIN securely.","Yes, after logging into the app, go to 'Profile' → 'Change MPIN' and follow the prompts to reset your MPIN securely."
+"Regarding NUST Fauri Business Finance (NFBF), What are the service/documentation/legal charges in Ask Fauri Business Finance?",At actual,"Flat @ Rs. 3,000/- (at the time of initiating and on each renewal)"
+"Regarding NUST Sahar Account (NSA), Can we open this account online?",- Digital account opening facility available with account opening within 48 hours,Digital account opening facility available with account opening within 48 hours
+"Regarding NUST Hunarmand Finance (NHF), For which purposes NUST Hunarmand Finance is being offered?","- To start new business
+- To expand existing business","NUST Hunarmand Finance is being offered to:
+* Start New Business
+* Expand Existing Business"
+"Regarding NUST Fauri Business Finance (NFBF), Is NUST Bank offering any financing against liquid security?","NUST Fauri Business Finance” has been introduced to provide a swift package to meet financial business needs of new to bank obligor. AFBF is offered to meet short, medium and long-term requirements of business. The finance will be provided to SMEs & Commercial for all the eligible sectors as per NUST credit policy manual.","NUST Fauri Business Finance” has been introduced to provide a swift package to meet financial business needs of new to bank obligor. AFBF is offered to meet short, medium and long-term requirements of business. The finance will be provided to SMEs & Commercial for all the eligible sectors as per NUST credit policy manual."
+"Regarding NUST Mortgage Finance (NMF), What is the minimum monthly income criterion?","Salaried: Permanent Rs. 50,000/-, Contractual Rs. 60,000/-, Govt. Employee Contractual 75,000/-
+Armed Forces: 25,000/-","Salaried: Permanent Rs. 50,000/-
+Contractual Rs. 60,000/-
+Govt. Employee Contractual 75,000/-"
+"Regarding Profit & Loss Sharing Account (PLS), What are the main features of NUST Profit & Loss Sharing (PLS) Account?","Profit Payment | Profit Rate
+Offered in LCY (PKR) & FCY (USD, GBP, EUR, JPY & AED) | Semi-Annually | 0.19
+Account opening deposit of Rs.100 for LCY, US $500 or equivalent for FCY | PLS Pensioners Account
+Debit Card Issuance against LCY account | Profit Payment | Profit Rate
+Profit Calculation- Monthly Average Balance | Semi-Annually | 0.1925
+Profit Payment Frequency- Semi-Annually","NUST offers Profit & Loss Sharing (PLS) Account in PKR & Foreign Currency (USD, GBP, EUR, JPY & AED). The following are main features of NUST Profit & Loss Sharing Account:
+- Profit Payment: Profit payment will be made semi-annually
+- Profit Rate: Profit rate is 0.19% per annum
+- Profit Calculation: Profit calculation is based on monthly average balance
+- Profit Payment Frequency: Profit payment will be made semi-annually
+- Account Opening Deposit: Minimum account opening deposit is Rs.100 for LCY and US$500 or equivalent for FCY
+- Free Features: Free E-statement & I-Net Banking, Free internal fund transfer within NUST via branch (online), Free Banker’s Cheque issuance, Free SMS alerts on digital transactions"
