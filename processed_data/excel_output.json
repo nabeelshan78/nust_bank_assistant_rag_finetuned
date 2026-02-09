@@ -15,17 +15,7 @@
     {
       "instruction": "What are the main Features  of the Little Champs Account.",
       "input": "",
-      "output": "Minimum initial deposit of Rs.100/- | Little Champs Savings A/C\nFree first chequebook* | Profit Payment | Profit Rate"
-    },
-    {
-      "instruction": "Free debit card* (annual/replacement fees apply). This debit card has the following limits",
-      "input": "",
-      "output": "Semi-Annually | 0.19"
-    },
-    {
-      "instruction": "Daily POS Limit:                     Rs.50,000/-",
-      "input": "",
-      "output": "* For Current Account only"
+      "output": "Minimum initial deposit of Rs.100/- | Little Champs Savings A/C\nFree first chequebook* | Profit Payment | Profit Rate\nFree debit card* (annual/replacement fees apply). This debit card has the following limits | Semi-Annually | 0.19\nDaily funds Transfer Limit: Rs.100,000/-\nDaily ATM Withdrawal Limit: Rs.25,000/-\nDaily POS Limit: Rs.50,000/-\n* For Current Account only"
     },
     {
       "instruction": "What other Value added features does the Little Champs Account have?",
@@ -45,12 +35,7 @@
     {
       "instruction": "What documents are required to open a Little Champs Account.",
       "input": "",
-      "output": "- A photocopy of Form-B, Birth Certificate or Student ID card (as appropriate) of the minor"
-    },
-    {
-      "instruction": "·        A photocopy of any one of the following valid identity documents of the guardian of the minor:",
-      "input": "",
-      "output": "1. Computerized National Identity Card (CNIC) issued by NADRA\n2. National Identity Card for Overseas Pakistani (NICOP) issued by NADRA\n3. Pakistan Origin Card (POC) issued by NADRA\n4. Alien Registration Card (ARC) issued by National Aliens Registration Authority (NARA), Ministry of Interior (local currency account only)\n5. Passport, with a valid visa or any other proof of legal stay along with passport (foreign national individuals only)\n6. Source of income of guardian"
+      "output": "- A photocopy of Form-B, Birth Certificate or Student ID card (as appropriate) of the minor\n- A photocopy of any one of the following valid identity documents of the guardian of the minor:\n1. Computerized National Identity Card (CNIC) issued by NADRA\n2. National Identity Card for Overseas Pakistani (NICOP) issued by NADRA\n3. Pakistan Origin Card (POC) issued by NADRA\n4. Alien Registration Card (ARC) issued by National Aliens Registration Authority (NARA), Ministry of Interior (local currency account only)\n5. Passport, with a valid visa or any other proof of legal stay along with passport (foreign national individuals only)\n6. Source of income of guardian"
     }
   ],
   "NAA": [
@@ -72,22 +57,7 @@
     {
       "instruction": "What are the basic Features  of NUST Asaan Account?",
       "input": "",
-      "output": "NUST Asaan Account\no Bi-annual account statements | Profit Payment | Profit Rate"
-    },
-    {
-      "instruction": "o No service charges for account opening & closing",
-      "input": "",
-      "output": "Semi-Annually | 0.19"
-    },
-    {
-      "instruction": "o Free PayPak Debit Card issuance* (subsequent charges apply as per the prevailing Schedule of Charges)",
-      "input": "",
-      "output": "o Free SMS Alerts on digital transaction\no Free E-statements\no Free I-Net banking / Mobile Banking\no Free Inter Branch Online Cash Withdrawal/ Deposit (Online)\no Free Internal Fund Transfer within NUST via branch (Online Transfer)"
-    },
-    {
-      "instruction": "o Transaction limit is Rs. 1,000,000/- for total credit balance and total debit per month",
-      "input": "",
-      "output": "o Cross border (outward) transactions shall not be allowed except in case of international transactions carried out through debit cards\no Customers can place their funds in Bank’s prescribed TDR products. However, the maximum credit balance limit will be inclusive of funds placed in TDRs\n* For Current Account only"
+      "output": "NUST Asaan Account\no Bi-annual account statements | Profit Payment | Profit Rate\no No service charges for account opening & closing | Semi-Annually | 0.19\no Free PayPak Debit Card issuance* (subsequent charges apply as per the prevailing Schedule of Charges)\no Free SMS Alerts on digital transaction\no Free E-statements\no Free I-Net banking / Mobile Banking\no Free Inter Branch Online Cash Withdrawal/ Deposit (Online)\no Free Internal Fund Transfer within NUST via branch (Online Transfer)\no Transaction limit is Rs. 1,000,000/- for total credit balance and total debit per month\no Cross border (outward) transactions shall not be allowed except in case of international transactions carried out through debit cards\no Customers can place their funds in Bank’s prescribed TDR products. However, the maximum credit balance limit will be inclusive of funds placed in TDRs\n* For Current Account only"
     },
     {
       "instruction": "What is the Profit rate on NAA Savings account?",
@@ -104,22 +74,17 @@
     {
       "instruction": "What are the salient features of NUST Waqaar Account ?",
       "input": "",
-      "output": "Savings | Term Deposit | Profit Payment\nTenure | – | 1 year | Savings: | 0.19\nMinimum Age to qualify | 55 years | 55 years"
+      "output": "Savings | Term Deposit | Profit Payment\nTenure | – | 1 year | Savings: | 0.19\nMinimum Age to qualify | 55 years | 55 years\nProfit Calculation | Monthly Average Balance | – | Term Deposit:\nProfit Payment frequency | Monthly | Monthly | Tenure | Payout | Profit Rate\nDebit Card & Cheque Book issuance as per prevailing SOC (for linked account) | Debit Card & Cheque Book | Debit Card & Cheque Book issuance as per prevailing SOC | Debit Card & Cheque Book issuance as per prevailing SOC (for linked account) | One Year | Monthly | 0.1675\nCurrency | PKR | PKR"
     },
     {
-      "instruction": "Profit Calculation | Monthly Average Balance | – | Term Deposit:",
+      "instruction": "What identity documents are required to open NUST Waqaar Account?",
       "input": "",
-      "output": "Profit Payment frequency | Monthly | Monthly | Tenure | Payout | Profit Rate\nDebit Card & Cheque Book issuance as per prevailing SOC (for linked account) | Debit Card & Cheque Book | Debit Card & Cheque Book issuance as per prevailing SOC | Debit Card & Cheque Book issuance as per prevailing SOC (for linked account) | One Year | Monthly | 0.1675\nCurrency | PKR | PKR"
-    },
-    {
-      "instruction": "A photocopy of any one of the following valid identity documents:",
-      "input": "",
-      "output": "National Identity Card (CNIC) issued by NADRA\nNational Identity Card for Overseas Pakistani (NICOP) issued by NADRA\nPakistan Origin Card (POC) issued by NADRA\nPassport, having valid visa on it or any other proof of legal stay along with passport (foreign national individuals only)"
+      "output": "A photocopy of any one of the following valid identity documents:\nNational Identity Card (CNIC) issued by NADRA\nNational Identity Card for Overseas Pakistani (NICOP) issued by NADRA\nPakistan Origin Card (POC) issued by NADRA\nPassport, having valid visa on it or any other proof of legal stay along with passport (foreign national individuals only)"
     },
     {
       "instruction": "What is the minimum age to qualify for opening of  NUST Waqaar Account & Minimum deposit requirement ?",
       "input": "",
-      "output": "Minimum age to qualify is 55 years"
+      "output": "Minimum age to qualify is 55 years\nIn case of a joint account, primary account holder must satisfy the age criteria"
     },
     {
       "instruction": "What is the minimum deposit requirement to open NUST Waqaar Savings Account & NUST Waqaar Term Deposit?",
@@ -144,29 +109,24 @@
       "output": "Local credits are also allowed in PakWatan Remittance Account"
     },
     {
-      "instruction": "Free services include:",
+      "instruction": "What are the free services associated with PakWatan Remittance account?",
       "input": "",
-      "output": "o First Cheque Book of 25 Leaves*\no NUST Visa Debit Card Issuance* (annual and replacement fee would apply)\no Bankers Cheque Issuance\no Inter Branch Online Cash Withdrawal/ Deposit (Online)\no Internal Fund Transfer within NUST via branch (Online Transfer)\no Internet Banking\no SMS on digital transactions\no E-statements\n* For Current Account only"
+      "output": "Free services include:\no First Cheque Book of 25 Leaves*\no NUST Visa Debit Card Issuance* (annual and replacement fee would apply)\no Bankers Cheque Issuance\no Inter Branch Online Cash Withdrawal/ Deposit (Online)\no Internal Fund Transfer within NUST via branch (Online Transfer)\no Internet Banking\no SMS on digital transactions\no E-statements\n* For Current Account only"
     },
     {
       "instruction": "Are there any other benefits to opening a PakWatan Remittance Account?",
       "input": "",
-      "output": "o WHT exemption on cash withdrawal on home remittances received from abroad\no Customer may also be eligible for Personal Finance, Credit Cards and Auto Finance after six months of maintaining PakWatan Remittance Account, subject to eligibility criteria of the bank"
+      "output": "o WHT exemption on cash withdrawal on home remittances received from abroad"
     },
     {
-      "instruction": "o   ATM Cash Withdrawal Insurance coverage up to daily cash withdrawal limit of the debit card from NUST Bank ATMs",
+      "instruction": "Is there any Insurance Coverage for this account?",
       "input": "",
-      "output": "o 24 hours world-wide “Accidental Death & Permanent Disability” insurance coverage to Debit Card holders. Rs. 500,000/- and Rs. 700,000/- for Classic and Gold Debit Cards respectively\no 24 hours world-wide “Accidental Death & Permanent Disability” insurance coverage. The sum insured per account holder shall be equivalent to four times of the average balance completed in the last six months – maximum up to Rs. 2.5 million"
+      "output": "o ATM Cash Withdrawal Insurance coverage up to daily cash withdrawal limit of the debit card from NUST Bank ATMs\no 24 hours world-wide “Accidental Death & Permanent Disability” insurance coverage to Debit Card holders. Rs. 500,000/- and Rs. 700,000/- for Classic and Gold Debit Cards respectively\no 24 hours world-wide “Accidental Death & Permanent Disability” insurance coverage. The sum insured per account holder shall be equivalent to four times of the average balance completed in the last six months – maximum up to Rs. 2.5 million"
     },
     {
       "instruction": "What is the profit rate offered on this account and when is credited?",
       "input": "",
-      "output": "Profit Rate\nProfit payment on monthly basis based on monthly average balance | Monthly | 0.19"
-    },
-    {
-      "instruction": "All bank charges are applicable as per prevailing Schedule of Charges",
-      "input": "",
-      "output": "Zakat and taxes are applicable as per law"
+      "output": "Profit Rate\nProfit payment on monthly basis based on monthly average balance | Monthly | 0.19\nAll bank charges are applicable as per prevailing Schedule of Charges\nZakat and taxes are applicable as per law"
     }
   ],
   "RDA": [
@@ -186,9 +146,9 @@
       "output": "Offered in PKR and USD/GBP/EUR\nSMS Alerts on registered local and International numbers\nBill Payments & Funds Transfer within Pakistan via Local ATMs & Internet Banking\nInvestment in Naya Pakistan Certificates, Real Estate, NUST Term Deposits Receipts and Stock Market\nNote: Local Deposits are not allowed in RDA"
     },
     {
-      "instruction": "Free First Issuance of Debit Card- Annual charges as per prevailing SOC",
+      "instruction": "What are the free facilities ?",
       "input": "",
-      "output": "Free I-Net banking\nFree E-statements"
+      "output": "Free First Issuance of Debit Card- Annual charges as per prevailing SOC\nFree I-Net banking\nFree E-statements"
     },
     {
       "instruction": "How to apply for Roshan Digital Account ?",
@@ -203,12 +163,7 @@
     {
       "instruction": "Who can open a Roshan Digital Account?",
       "input": "",
-      "output": "NRPs\nOPF Members\nForeign Nationals having Pakistan Origin Card (POC)\nPakistani Nationals having declared Assets abroad\nGovt. Employees & Officials posted abroad\nProfit Payment | Profit Rate"
-    },
-    {
-      "instruction": "All bank charges are applicable as per prevailing Schedule of Charges",
-      "input": "",
-      "output": "Monthly | 0.19\nZakat and WHT taxes on profit are not applicable on RDA account"
+      "output": "NRPs\nOPF Members\nForeign Nationals having Pakistan Origin Card (POC)\nPakistani Nationals having declared Assets abroad\nGovt. Employees & Officials posted abroad\nProfit Payment | Profit Rate\nAll bank charges are applicable as per prevailing Schedule of Charges | Monthly | 0.19\nZakat and WHT taxes on profit are not applicable on RDA account"
     }
   ],
   "VPCA": [
@@ -218,9 +173,9 @@
       "output": "NUST Value Plus Current Account is specially designed for individuals to cater their financial needs."
     },
     {
-      "instruction": "- Cheque Books (unlimited)",
+      "instruction": "What are the free facilities being provided with NUST Value Plus Current Account?",
       "input": "",
-      "output": "- Debit Card (First is free)*\n- 2 Supplementary Debit Cards\n- Duplicate Account Statements\n- On-line Fund Transfer Facility\n- Free SMS alerts facility on Digital Transactions\n- Free E-statement & I-Net Banking\n- Free Inter Branch Online Cash Deposit/Withdrawal (Online)\n- Free Internal Fund Transfer within NUST via branch (Online Transfer)\n- Free Banker’s Cheque Issuance"
+      "output": "- Cheque Books (unlimited)\n- Debit Card (First is free)*\n- 2 Supplementary Debit Cards\n- Duplicate Account Statements\n- On-line Fund Transfer Facility\n- Free SMS alerts facility on Digital Transactions\n- Free E-statement & I-Net Banking\n- Free Inter Branch Online Cash Deposit/Withdrawal (Online)\n- Free Internal Fund Transfer within NUST via branch (Online Transfer)\n- Free Banker’s Cheque Issuance"
     },
     {
       "instruction": "Are there any insurance benefits associated with VPCA'?",
@@ -230,12 +185,7 @@
     {
       "instruction": "What is the opening and minimum balance requirement for VPCA?",
       "input": "",
-      "output": "- No Opening Balance Requirements\n- No Minimum Monthly Average Balance Requirements\n- Allocation of Lockers (upon availability)**"
-    },
-    {
-      "instruction": "*Subsequent Charges/Annual Fees would be as per prevailing SOC",
-      "input": "",
-      "output": "**On maintaining a minimum monthly average balance of Rs. 50,000"
+      "output": "- No Opening Balance Requirements\n- No Minimum Monthly Average Balance Requirements\n- Allocation of Lockers (upon availability)**\n*Subsequent Charges/Annual Fees would be as per prevailing SOC\n**On maintaining a minimum monthly average balance of Rs. 50,000"
     }
   ],
   "VP-BA": [
@@ -247,7 +197,7 @@
     {
       "instruction": "Please tell me about  Free Facilities being provided on Value Plus Current Account for Business upon maintaining minimum Monthly average Balance ?",
       "input": "",
-      "output": "Issuance of Cheque Books\nDuplicate Account Statement\nIssuance of Debit Card*\nInternet Banking facility\nSMS Alerts on Digital Transaction\nE-statement\nInter Branch Online Cash Deposit/Withdrawal (Online)\nInternal Fund Transfer within NUST via branch (Online Transfer)\nBanker’s Cheque Issuance"
+      "output": "Issuance of Cheque Books\nDuplicate Account Statement\nIssuance of Debit Card*\nInternet Banking facility\nSMS Alerts on Digital Transaction\nE-statement\nInter Branch Online Cash Deposit/Withdrawal (Online)\nInternal Fund Transfer within NUST via branch (Online Transfer)\nBanker’s Cheque Issuance\n*Subsequent Charges/Annual Fees would be as per prevailing SOC"
     },
     {
       "instruction": "Please tell me about  minimum Monthly balance required ?",
@@ -269,7 +219,12 @@
     {
       "instruction": "I would like to inquire about opening a current account for business purpose with your Bank. Please tell me what options I have?",
       "input": "",
-      "output": "NUST Value Premium Business Account has been designed to better meet the specialized banking needs of businesses that continue to grow with time.\nPlease tell me about Free Facilities being provided on Value Plus Current Account for Premium Business upon maintaining minimum Monthly average Balance?\nIssuance of Cheque Books*\nDuplicate Account Statement\nIssuance of Debit Card*\nInternet Banking facility\nSMS Alerts on Digital Transaction\nSame Day & Intercity Cheque Deposit\nE-statement\nInter Branch Online Cash Deposit/Withdrawal (Online)\nInternal Fund Transfer within NUST via branch (Online Transfer)\nBanker’s Cheque Issuance\nFree LC / LG issuance (Cash backed or Account lien based)"
+      "output": "NUST Value Premium Business Account has been designed to better meet the specialized banking needs of businesses that continue to grow with time."
+    },
+    {
+      "instruction": "Please tell me about  Free Facilities being provided on Value Plus Current Account for Premium Business  upon maintaining minimum Monthly average Balance?",
+      "input": "",
+      "output": "Issuance of Cheque Books*\nDuplicate Account Statement\nIssuance of Debit Card*\nInternet Banking facility\nSMS Alerts on Digital Transaction\nSame Day & Intercity Cheque Deposit\nE-statement\nInter Branch Online Cash Deposit/Withdrawal (Online)\nInternal Fund Transfer within NUST via branch (Online Transfer)\nBanker’s Cheque Issuance\nFree LC / LG issuance (Cash backed or Account lien based)\n*Subsequent Charges/Annual Fees would be as per prevailing SOC"
     },
     {
       "instruction": "Please tell me about  the Minimum Monthly balance required for this account?",
@@ -284,12 +239,7 @@
     {
       "instruction": "What is the Target Market for Value Plus Premium Business Account ?",
       "input": "",
-      "output": "Medium Enterprises\nPartnership Firms"
-    },
-    {
-      "instruction": "Private & Public Limited Companies",
-      "input": "",
-      "output": "Corporate & Commercial Organizations\nNGOs / NPOs / Trust/ Charitable Organizations"
+      "output": "Medium Enterprises\nPartnership Firms\nPrivate & Public Limited Companies\nCorporate & Commercial Organizations\nNGOs / NPOs / Trust/ Charitable Organizations"
     }
   ],
   "NSDA": [
@@ -316,12 +266,7 @@
     {
       "instruction": "What is the Target Market?",
       "input": "",
-      "output": "HNW Individuals (either singly or jointly)\nProprietorship Concerns\nPartnership Firms"
-    },
-    {
-      "instruction": "Public and Private Limited Companies",
-      "input": "",
-      "output": "Government Organizations, Corporations\nClubs, Societies, Associations, NGOs"
+      "output": "HNW Individuals (either singly or jointly)\nProprietorship Concerns\nPartnership Firms\nPublic and Private Limited Companies\nGovernment Organizations, Corporations\nClubs, Societies, Associations, NGOs"
     }
   ],
   "PLS": [
@@ -343,12 +288,7 @@
     {
       "instruction": "What is the Target Market?",
       "input": "",
-      "output": "Individuals (either singly or jointly)\nProprietorship Concerns\nPartnership Firms"
-    },
-    {
-      "instruction": "Public and Private Limited Companies",
-      "input": "",
-      "output": "Government Organizations, Corporations\nClubs, Societies, Associations,\nNGOs/NPOs/Charitable Organizations"
+      "output": "Individuals (either singly or jointly)\nProprietorship Concerns\nPartnership Firms\nPublic and Private Limited Companies\nGovernment Organizations, Corporations\nClubs, Societies, Associations,\nNGOs/NPOs/Charitable Organizations"
     }
   ],
   "CDA": [
@@ -360,7 +300,7 @@
     {
       "instruction": "What are the main features of Current Deposit Account?",
       "input": "",
-      "output": "Offered in LCY (PKR) & FCY (USD, GBP, EUR, JPY & AED)\nMinimum Account Opening Deposit of Rs.5,000 for LCY, US $500 or equivalent for FCY\nNo Minimum Monthly Balance Requirement\nDebit Card for PKR Account"
+      "output": "Offered in LCY (PKR) & FCY (USD, GBP, EUR, JPY & AED)\nMinimum Account Opening Deposit of Rs.5,000 for LCY, US $500 or equivalent for FCY\nNo Minimum Monthly Balance Requirement\nDebit Card for PKR Account\nNo limits on monthly credits and debits"
     },
     {
       "instruction": "What are the free services offered with Current Deposit Account?",
@@ -382,17 +322,12 @@
     {
       "instruction": "Is there any account which provides lucrative profits on my long term savings?",
       "input": "",
-      "output": "Yes, NUST Maximiser Account has been designed to fulfill your basic banking needs and provide lucrative profit on your savings."
+      "output": "Yes, NUST Maximiser Account has been designed to fulfill your basic banking needs and provide lucrative profit on your savings.\nThis product is available in two variants:\n- NUST Maximiser Savings Account\n- NUST Maximiser Term Deposit"
     },
     {
-      "instruction": "This product is available in two variants:",
+      "instruction": "What are the main Features of NUST Maximiser Savings Account?",
       "input": "",
-      "output": "- NUST Maximiser Savings Account\n- NUST Maximiser Term Deposit"
-    },
-    {
-      "instruction": "-  Attractive profit payment on monthly, quarterly, semi-annual & annual basis:",
-      "input": "",
-      "output": "- Minimum monthly average balance requirement Rs. 100,000\n- Chip-based Debit Card & Cheque Book issuance as per prevailing SOC"
+      "output": "- Attractive profit payment on monthly, quarterly, semi-annual & annual basis:\n- Minimum monthly average balance requirement Rs. 100,000\n- Chip-based Debit Card & Cheque Book issuance as per prevailing SOC"
     },
     {
       "instruction": "What are the free services available with NUST Maximiser Savings Account?",
@@ -405,9 +340,9 @@
       "output": "Profit Rate:\n- Tenure: 1, 2, 3 & 5 Years | NUST Maximiser - Term Deposit\n- Minimum investment: Rs. 100,000 | Tenure | Payout | Profit Rate\n- Roll-over option available | One Year | Monthly | 0.1675\n- Attractive profit payments on monthly basis. | Two Years | 0.1425\nThree Years | 0.13752\nFive Years | 0.13"
     },
     {
-      "instruction": "The encashment of NUST Maximiser Term Deposit before maturity will be subject to premature encashment penalty as below:",
+      "instruction": "Is there any Premature Encashment Penalty in NUST Maximiser Term Deposit?",
       "input": "",
-      "output": "Principal amount x 1.5% per annum on the remaining period of the Term Deposits"
+      "output": "The encashment of NUST Maximiser Term Deposit before maturity will be subject to premature encashment penalty as below:\nPrincipal amount x 1.5% per annum on the remaining period of the Term Deposits\n(for e.g., deal booked for 5 years matured after 2 years – penalty/charges will be 4.5% x Principal Amount)\nMinimum penalty/charges are 1.5% of the principal amount. The penalty amount will be to the extent of profit paid/payable only"
     }
   ],
   "NADA": [
@@ -435,6 +370,11 @@
       "instruction": "Who is eligible for this account?",
       "input": "",
       "output": "Skilled/Unskilled Workforce\nLess Educated/Uneducated People\nFarmers, Laborers/Daily Wagers\nWomen/Housewives\nSelf-Employed Individuals\nYoung Adults"
+    },
+    {
+      "instruction": "Is there a Monthly Transaction Limit (Debit  and Credit Limit) in NUST Asaan Digital Account ?",
+      "input": "",
+      "output": "Maximum Credit Balance Limit PKR 1,000,000/-\nMonthly Debit Limit PKR 1,000,000/-"
     }
   ],
   "NADRA": [
@@ -457,38 +397,108 @@
       "instruction": "What is the Target Market?",
       "input": "",
       "output": "Individuals- Beneficiaries (families) of Pakistanis working abroad"
+    },
+    {
+      "instruction": "Are there any transaction limits in NUST Asaan Digital Remittance Account ?",
+      "input": "",
+      "output": "The following Transaction limits apply:\nMaximum Credit Balance Limit PKR 3,000,000\nCash Withdrawal Limit PKR 500,000/ per day\nFund Transfer Limit PKR 500,000/ per day\nLocal Credit Limit PKR 1,000,000/ per day"
     }
   ],
   "NUST4Car": [
     {
-      "instruction": "- Free Tracker & Its installation | - No hidden charges",
+      "instruction": "What are the benefits of NUST Bank Auto Finance?",
       "input": "",
-      "output": "- Free Accidental Life Insurance up to Rs.1,000,000\n2. Who can apply for NUST Auto Finance?\n- Salaried Individuals | - Specially Abled Persons/Visually Impaired Person/Persons with Disabilities (PWD)\n- Self Employed Businessman/Woman (SEB) | - Individuals having any other verifiable source of income\n- Self Employed Professionals (SEP)\n3. Which types of Vehicles are offered under NUST auto finance?\nLocally assembled/manufactured\nNew/Used vehicles\n(Commercial vehicles or vehicles for commercial use cannot be financed)\n4. Can I avail Loan Facility, if there are defaults against my previous loan(s)?\nNo. Regular payment against previous loans is necessary.\n5. How much loan can I avail?\nUp to a maximum of Rs.3 Million from all banks/DFIs in aggregate, subject to a maximum of 40% Debt Burden requirement.\n6. What is maximum period of loan?\nUp to 1000 CC Vehicles up to 5 Years\nFor Vehicles Greater than 1000 CC up to 3 Years\n7. How much Equity/Down Payment is required?"
+      "output": "- Competitive Floating & Fixed Mark Up Rate | - Partial Payment option available to reduce monthly instalment\n- Attractive Insurance Rate at 1.75% per annum | - Quick Processing & Minimum Documentation\n- Free Tracker & Its installation | - No hidden charges\n- Free Accidental Life Insurance up to Rs.1,000,000"
     },
     {
-      "instruction": "Minimum 30%  equity +(1st Year Insurance + documentation charges) is required as down payment",
+      "instruction": "Who can apply for NUST Auto Finance?",
       "input": "",
-      "output": "8. Can I avail more than one vehicle through Auto loan facility?"
+      "output": "- Salaried Individuals | - Specially Abled Persons/Visually Impaired Person/Persons with Disabilities (PWD)\n- Self Employed Businessman/Woman (SEB) | - Individuals having any other verifiable source of income\n- Self Employed Professionals (SEP)"
     },
     {
-      "instruction": "Yes. Two vehicles can be availed simultaneously from NUST Bank, subject to Debt Burden Limitations",
+      "instruction": "Which types of Vehicles are offered under NUST auto finance?",
       "input": "",
-      "output": "9. Can I avail Auto loan facility, if I am not a Salaried Person/Businessman/"
+      "output": "Locally assembled/manufactured\nNew/Used vehicles\n(Commercial vehicles or vehicles for commercial use cannot be financed)"
+    },
+    {
+      "instruction": "Can I avail Loan Facility, if there are defaults against my previous loan(s)?",
+      "input": "",
+      "output": "No. Regular payment against previous loans is necessary."
+    },
+    {
+      "instruction": "How much loan can I avail?",
+      "input": "",
+      "output": "Up to a maximum of Rs.3 Million from all banks/DFIs in aggregate, subject to a maximum of 40% Debt Burden requirement."
+    },
+    {
+      "instruction": "What is maximum period of loan?",
+      "input": "",
+      "output": "Up to 1000 CC Vehicles up to 5 Years\nFor Vehicles Greater than 1000 CC up to 3 Years"
+    },
+    {
+      "instruction": "How much Equity/Down Payment is required?",
+      "input": "",
+      "output": "Minimum 30% equity +(1st Year Insurance + documentation charges) is required as down payment"
+    },
+    {
+      "instruction": "Can I avail more than one vehicle through Auto loan facility?",
+      "input": "",
+      "output": "Yes. Two vehicles can be availed simultaneously from NUST Bank, subject to Debt Burden Limitations\n9. Can I avail Auto loan facility, if I am not a Salaried Person/Businessman/"
     },
     {
       "instruction": "Professional?",
       "input": "",
-      "output": "Yes. The individual with foreign remittance, supported by Bank statement and remittance receipts can avail Auto Loan Facility\n10. Are there any hidden charges?"
+      "output": "Yes. The individual with foreign remittance, supported by Bank statement and remittance receipts can avail Auto Loan Facility"
     },
     {
-      "instruction": "There are no hidden charges. All charges are mentioned in our Schedule of Charges available at our website and at all branches of NUST Bank.",
+      "instruction": "Are there any hidden charges?",
       "input": "",
-      "output": "11. Is insurance of vehicle is mandatory?\nYes. Comprehensive Insurance of vehicle is mandatory for the whole tenor of loan at the cost of the borrower\nthrough any of the insurance companies listed with NUST Bank.\n12. What will be the monthly insurance charges on the vehicle valuing Rs.3 million?\nWith the current insurance rate of 1.75% per annum, it will be Rs.4,375/- per month.\nInsurance rate once fixed, shall remain unchanged during the whole tenor of financing.\n13. Who will insure my Vehicle?\nNUST Bank has insurance arrangements with reputed insurance companies with attractive insurance rate,\nFree Tracker and Free Accidental Life insurance up to Rs.1 million.\nCustomer has to select insurance company of his/her choice from NUST Panel of insurance companies.\n14. Can I pay my loan before maturity?"
+      "output": "There are no hidden charges. All charges are mentioned in our Schedule of Charges available at our website and at all branches of NUST Bank."
     },
     {
-      "instruction": "Yes. You can pay your loan before maturity. However, charges shall be applicable as per prevailing SOC",
+      "instruction": "Is insurance of vehicle is mandatory?",
       "input": "",
-      "output": "https://NUSTbank.com/NUSTUploads/uploads/SOC-Conv-English.pdf\n15. What is the security against the loan?\nFinanced vehicle will be the security against the loan, which will be hypothecated in favour of NUST Bank.\n16. Whether bank is responsible for delay in booking or delivery of vehicle?\nNo. Bank does not assume any responsibility in this regard, as same is beyond the control of bank.\n17. Whether bank is responsible for any type of dispute related to Warranty/Fault in vehicle/Service issues with Dealership or vehicle Manufacturer?\nNo. Bank does not assume this responsibility. Customer will take up the matter directly with dealership or manufacturer.\n18. What is the Loan Application processing time?\nThe processing time for loan approval is approximately 11 working days, subject to complete application with required documents/formalities.\n19. How can I apply for loan?\nYou can apply by visiting any of our Branch or by calling us at 24 hours Contact Centre at 111-000-787.\nOur dedicated staff will help you to complete your loan application and other formalities."
+      "output": "Yes. Comprehensive Insurance of vehicle is mandatory for the whole tenor of loan at the cost of the borrower\nthrough any of the insurance companies listed with NUST Bank."
+    },
+    {
+      "instruction": "What will be the monthly insurance charges on the vehicle valuing Rs.3 million?",
+      "input": "",
+      "output": "With the current insurance rate of 1.75% per annum, it will be Rs.4,375/- per month.\nInsurance rate once fixed, shall remain unchanged during the whole tenor of financing."
+    },
+    {
+      "instruction": "Who will insure my Vehicle?",
+      "input": "",
+      "output": "NUST Bank has insurance arrangements with reputed insurance companies with attractive insurance rate,\nFree Tracker and Free Accidental Life insurance up to Rs.1 million.\nCustomer has to select insurance company of his/her choice from NUST Panel of insurance companies."
+    },
+    {
+      "instruction": "Can I pay my loan before maturity?",
+      "input": "",
+      "output": "Yes. You can pay your loan before maturity. However, charges shall be applicable as per prevailing SOC\nhttps://NUSTbank.com/NUSTUploads/uploads/SOC-Conv-English.pdf"
+    },
+    {
+      "instruction": "What is the security against the loan?",
+      "input": "",
+      "output": "Financed vehicle will be the security against the loan, which will be hypothecated in favour of NUST Bank."
+    },
+    {
+      "instruction": "Whether bank is responsible for delay in booking or delivery of vehicle?",
+      "input": "",
+      "output": "No. Bank does not assume any responsibility in this regard, as same is beyond the control of bank."
+    },
+    {
+      "instruction": "Whether bank is responsible for any type of dispute related to Warranty/Fault in vehicle/Service issues with Dealership or vehicle Manufacturer?",
+      "input": "",
+      "output": "No. Bank does not assume this responsibility. Customer will take up the matter directly with dealership or manufacturer."
+    },
+    {
+      "instruction": "What is the Loan Application processing time?",
+      "input": "",
+      "output": "The processing time for loan approval is approximately 11 working days, subject to complete application with required documents/formalities."
+    },
+    {
+      "instruction": "How can I apply for loan?",
+      "input": "",
+      "output": "You can apply by visiting any of our Branch or by calling us at 24 hours Contact Centre at 111-000-787.\nOur dedicated staff will help you to complete your loan application and other formalities."
     }
   ],
   "ESFCA": [
@@ -511,6 +521,11 @@
       "instruction": "What is the Target Market?",
       "input": "",
       "output": "Individuals running a freelance service business"
+    },
+    {
+      "instruction": "Are there any Credit and Debit limits in NUST Freelancer Digital Account?",
+      "input": "",
+      "output": "The following Transaction limits apply:\nMaximum Credit Balance Limit USD 5,000 or equivalent\nMonthly Debit Limit USD 5,000 or equivalent\nCash Withdrawal Limit PKR 500,000 or equivalent / per day"
     }
   ],
   "NFDA": [
@@ -533,6 +548,11 @@
       "instruction": "What is the Target Market?",
       "input": "",
       "output": "Individuals running a freelance service business"
+    },
+    {
+      "instruction": "Are there any Credit and Debit limits in NUST Freelancer Digital Account?",
+      "input": "",
+      "output": "The following Transaction limits apply:\nMaximum Credit Balance Limit USD 5,000 or equivalent\nMonthly Debit Limit USD 5,000 or equivalent\nCash Withdrawal Limit PKR 500,000 or equivalent / per day"
     }
   ],
   "NSA": [
@@ -542,14 +562,14 @@
       "output": "- Yes! NUST Bank Offers NUST Sahar Account.\n- Female Individual Resident Pakistanis can open the account offered under NUST Sahar Banking."
     },
     {
-      "instruction": "NUST Sahar Deposit suite consists of following variants:",
+      "instruction": "What is the account type of NUST Sahar Account?",
       "input": "",
-      "output": "1- NUST Sahar Current Account\n2-NUST Sahar Savings Account\n3-NUST Sahar Term Deposits\n4-NUST Sahar Asaan Current Account"
+      "output": "NUST Sahar Deposit suite consists of following variants:\n1- NUST Sahar Current Account\n2-NUST Sahar Savings Account\n3-NUST Sahar Term Deposits\n4-NUST Sahar Asaan Current Account"
     },
     {
       "instruction": "What are the free facilities NUST is offering on NUST Sahar Current Account ?",
       "input": "",
-      "output": "- First Cheque Book\n- First Debit Card Issuance*\n- 50% Discount on first year Locker Rental (subject to locker availability)\n. Bankers Cheque Issuance\n. Inter Branch Online Cash Withdrawal/ Deposit (Online)\n. Internal Fund Transfer within NUST via branch (Online Transfer)\n- SMS Alerts on all banking Transactions\n- I-Net and Mobile Banking\n- E-statement Facility and much more"
+      "output": "- First Cheque Book\n- First Debit Card Issuance*\n- 50% Discount on first year Locker Rental (subject to locker availability)\n. Bankers Cheque Issuance\n. Inter Branch Online Cash Withdrawal/ Deposit (Online)\n. Internal Fund Transfer within NUST via branch (Online Transfer)\n- SMS Alerts on all banking Transactions\n- I-Net and Mobile Banking\n- E-statement Facility and much more\n*Subsequent Charges/Annual Fees would be as per prevailing Schedule of Charges"
     },
     {
       "instruction": "Can we open this account online?",
@@ -574,7 +594,7 @@
     {
       "instruction": "What are the free services offered on NUST Sahar Savings Account?",
       "input": "",
-      "output": "- First Debit Card Issuance*\n- SMS Alerts on Digital Transactions\n- I-Net Banking\n. Internal Fund Transfer within NUST via branch (Online Transfer)\n. Inter Branch Online Cash Withdrawal/ Deposit (Online)\n- E-statement Facility\n- Debit card and Cheque book delivery at customer address & activation via Contact Centre"
+      "output": "- First Debit Card Issuance*\n- SMS Alerts on Digital Transactions\n- I-Net Banking\n. Internal Fund Transfer within NUST via branch (Online Transfer)\n. Inter Branch Online Cash Withdrawal/ Deposit (Online)\n- E-statement Facility\n- Debit card and Cheque book delivery at customer address & activation via Contact Centre\n*Subsequent Charges/Annual Fees would be as per prevailing Schedule of Charges"
     },
     {
       "instruction": "What are the main features of NUST Sahar Term Deposit ?",
@@ -582,14 +602,9 @@
       "output": "- Flexibility to choose from multiple tenure: 1, 3 or 5 Years\n- Investments starts from as low as Rs. 50,000/-\n- Monthly Profit Payment in your NUST Sahar Current Account\n- Roll-over option available\nNote: Deals to be booked from NUST Sahar Current Account Only"
     },
     {
-      "instruction": "- The encashment of NUST Sahar Term Deposit before maturity will be subject to premature encashment penalty as below:",
+      "instruction": "What is the Premature Encashment Penalty on NUST Sahar Term Deposit ?",
       "input": "",
-      "output": "- Principal amount x 1.5% per annum on the remaining period of the Term Deposits"
-    },
-    {
-      "instruction": "- Minimum penalty/charges are 1.5% of the principal amount. The penalty amount will be to the extent of profit paid/payable only",
-      "input": "",
-      "output": "https://NUSTbank.com/NUSTUploads/uploads/SOC-Conv-English.pdf"
+      "output": "- The encashment of NUST Sahar Term Deposit before maturity will be subject to premature encashment penalty as below:\n- Principal amount x 1.5% per annum on the remaining period of the Term Deposits\n(for e.g., deal booked for 5 years matured after 2 years – penalty/charges will be 4.5% x Principal Amount)\n- Minimum penalty/charges are 1.5% of the principal amount. The penalty amount will be to the extent of profit paid/payable only\nhttps://NUSTbank.com/NUSTUploads/uploads/SOC-Conv-English.pdf"
     },
     {
       "instruction": "What is the initial deposit requirement of NUST Sahar Asaan Current Account?",
@@ -602,9 +617,9 @@
       "output": "- Simplified Account Opening with single pager Account Opening form & CNIC\n- Cheque Book Issuance\n- Free PayPak Debit Card Issuance"
     },
     {
-      "instruction": "- Total Credit Balance Limit of up to Rs. 1,000,000",
+      "instruction": "Is there any Transaction Limitation for NUST Sahar Asaan Current Account ?",
       "input": "",
-      "output": "- Cross border (outward) transactions shall not be allowed except in case of international transactions carried out through debit cards"
+      "output": "- Monthly withdrawal limits up to Rs. 1,000,000\n- Total Credit Balance Limit of up to Rs. 1,000,000\n- Cross border (outward) transactions shall not be allowed except in case of international transactions carried out through debit cards"
     },
     {
       "instruction": "What are the free services offered on NUST Sahar Asaan Current Account ?",
@@ -654,6 +669,11 @@
       "output": "The processing time of Personal Finance is 10 working days form login till approval (subject to complete application with required documents)."
     },
     {
+      "instruction": "What is the Application processing Charges?",
+      "input": "",
+      "output": "It will be as per prevailing Schedule of Charges (SOC) or As per corporate arrangement."
+    },
+    {
       "instruction": "What is the repayment mode?",
       "input": "",
       "output": "Payment of Equal Monthly Instalment (EMI) comprising of principal, mark-up and insurance payment will be made through Direct Debit Authority (DDA) of borrower’s account maintained with NUST."
@@ -666,12 +686,7 @@
     {
       "instruction": "What happens if I fail to fulfil your payment obligations?",
       "input": "",
-      "output": "In case of overdue / default, recovery department of NUST will contact you, your loan related details will be reported to Credit Bureau."
-    },
-    {
-      "instruction": "Late payment will be applicable as per prevailing schedule of charges.",
-      "input": "",
-      "output": "Legal proceeding may also be initiated by the Bank."
+      "output": "In case of overdue / default, recovery department of NUST will contact you, your loan related details will be reported to Credit Bureau.\nLate payment will be applicable as per prevailing schedule of charges.\nLegal proceeding may also be initiated by the Bank."
     },
     {
       "instruction": "How will I get update of my Personal Loan Application?",
@@ -681,26 +696,166 @@
   ],
   "NMC": [
     {
-      "instruction": "Processing Charges will be as per prevailing Bank’s Schedule of Charges (SOC).",
+      "instruction": "Who can apply for NUST Credit Card Facility?",
       "input": "",
-      "output": "11. What happens if I fail to fulfil your payment obligations?\nIn case of overdue / default, recovery department of NUST will contact you, your loan related details will be reported to Credit Bureau. Late payment and cheque return charges may also be applicable as per prevailing schedule of charges. Legal proceeding may also be initiated by the Bank.\n12. How will I get update of my Credit Card Application?\nYou can visit/ call or send email at our Customer Services centre(s) as well. Services centre(s) as well.\nEmail Address: CustomerServices@NUSTbank.com.pk\n13. Is there a limit to international Spending?"
+      "output": "Salaried Individuals\nSelf Employed Businessman/Woman (SEB)\nSelf Employed Professionals (SEP)\nSpecially Abled Persons/Visually Impaired Person/Persons with Disabilities (PWD), Women.\nIndividuals having verifiable source of income can apply for NUST Mastercard Credit Card."
     },
     {
-      "instruction": "As per SBP directives i.e. Nov 1, 2022 industry-wide annual maximum limit of USD 30,000/- per individual on card-based",
+      "instruction": "What is the minimum age for applying NUST Mastercard Credit Card?",
       "input": "",
-      "output": "(debit/credit and virtual cards) cross-border transactions\nIt is the primary responsibility of a customer to ensure that his/her annual limit is not breached at any time. In order to avoid any inconvenience, you are requested to please restrict your international spending within the defined limit. Cross-border commercial payments through cards issued to individuals are not permissible.\nNote: NUST Bank has the right to reject any application as per Bank’s criteria."
+      "output": "Minimum 21 years old & Pakistani resident, can apply for NUST MasterCard Credit Card."
+    },
+    {
+      "instruction": "What is the maximum age for applying NUST Mastercard Credit Card?",
+      "input": "",
+      "output": "Salaried (Permanent): 60 years\nSalaried (Contractual)/ Pensioners/SEB/SEP: 65 years"
+    },
+    {
+      "instruction": "Can overseas Pakistanis obtain Credit Card facility from NUST?",
+      "input": "",
+      "output": "Yes. The individuals maintaining FC account with NUST, Remittances/ Roshan Digital Account holders/\nHolders of Naya Pakistan Certificates can apply for NUST MasterCard Credit Cards on lien basis.\nNote: Facility can only be allowed in case of FC joint account maintaining with NUST (one person should be residing in Pakistan)."
+    },
+    {
+      "instruction": "What is the minimum and maximum financing amount?",
+      "input": "",
+      "output": "Clean facility, Minimum Rs. 30,000/- and maximum up to 3.0 Million or as per 40% Debt Burden Ratio subject to SBP PRs."
+    },
+    {
+      "instruction": "What would be the financing tenure?",
+      "input": "",
+      "output": "NUST Credit Card is an Evergreen facility & renewable after expiry of credit card."
+    },
+    {
+      "instruction": "What is the minimum monthly income criterion?",
+      "input": "",
+      "output": "GOP / Semi Govt. / Autonomous Bodies etc: Permanent, Rs. 35,000/- Contractual, Rs. 45,000/-\nApproved Company: Permanent, Rs. 40,000/- Contractual, Rs. 60,000/-\nNon-Approved(Salary account with NUST): Rs. 70,000/- Contractual, Rs. 80,000/-"
+    },
+    {
+      "instruction": "In which area of the country one can avail Credit Card facility?",
+      "input": "",
+      "output": "Credit Card can be availed from all cities / Areas without discrimination"
+    },
+    {
+      "instruction": "What is the Application processing time?",
+      "input": "",
+      "output": "The processing time of Credit Card facility is 10 working days form login till approval subject to complete application with required documentation"
+    },
+    {
+      "instruction": "What are the Application Processing Charges?",
+      "input": "",
+      "output": "Processing Charges will be as per prevailing Bank’s Schedule of Charges (SOC)."
+    },
+    {
+      "instruction": "What happens if I fail to fulfil your payment obligations?",
+      "input": "",
+      "output": "In case of overdue / default, recovery department of NUST will contact you, your loan related details will be reported to Credit Bureau. Late payment and cheque return charges may also be applicable as per prevailing schedule of charges. Legal proceeding may also be initiated by the Bank."
+    },
+    {
+      "instruction": "How will I get update of my Credit Card Application?",
+      "input": "",
+      "output": "You can visit/ call or send email at our Customer Services centre(s) as well. Services centre(s) as well.\nEmail Address: CustomerServices@NUSTbank.com.pk"
+    },
+    {
+      "instruction": "Is there a limit to international Spending?",
+      "input": "",
+      "output": "As per SBP directives i.e. Nov 1, 2022 industry-wide annual maximum limit of USD 30,000/- per individual on card-based\n(debit/credit and virtual cards) cross-border transactions\nIt is the primary responsibility of a customer to ensure that his/her annual limit is not breached at any time. In order to avoid any inconvenience, you are requested to please restrict your international spending within the defined limit. Cross-border commercial payments through cards issued to individuals are not permissible.\nNote: NUST Bank has the right to reject any application as per Bank’s criteria."
     }
   ],
   "NMF": [
     {
-      "instruction": "Yes. However can apply as Co-Borrower with veriable income. Basic borrower from Pakistan should also meet the required basic criteria for MF.",
+      "instruction": "What types of Housing Finance products does NUST offer?",
       "input": "",
-      "output": "5. What is the minimum and maximum financing amount?\nThe minimum financing amount is Rs. 500,000/.\nThe maximum financing limit will be up to Rs.100,000,000/- subject to 50% Debt Burden Ratio(DBR) as per SBP PRs for Housing Finance.\n6. What would be the financing tenure?\nLoan tenure is Minimum 3 years and maximum 25 years\n7. Can I obtain financing on my owned property by mortgaging it?\nYes, purpose of finance has to be in line with the purpose defined by regulator i.e.\nFinancing for construction of house on owned residential plot.\nBalance Transfer Facility (BTF) against existing financing facility of borrower from other banks/ DFIs.\nRenovation of owned House/ Apartment/ Flat/ Residential Unit\nExtension/ Expansion/ Improvement of Residential Unit\n8. Can I avail more than one House loan?\nYes. One can avail two Mortgage Loans at a time from NUST Bank within Debt Burden Ratio (DBR) as per prevailing SBP PRs for Housing Finance.\n9. Can I avail income tax rebate on House Financing?\nYes, one can claim tax rebate against its House Finance mark-up paid during the year, or as per prevailing Tax laws of the country.\n10. What is the minimum monthly income criterion?\nSalaried: Permanent Rs. 50,000/-, Contractual Rs. 60,000/-, Govt. Employee Contractual 75,000/-\nArmed Forces: 25,000/-\n11. Can I club income of Co-Borrower?\nYes. Clubbing of Co-Borrower income may be allowed in case of spouse/son/parents/un-married daughter/Sibling.\n12. What are the processing charges for NUST Mortgage FInance?"
+      "output": "Purchase of House/ Apartment/ Flat/ Residential Unit\nPurchase of Plot (+) plus Construction\nConstruction of House/ Residential Unit on already owned residential plot\nRenovation of House/ Apartment/ Flat/ Residential Unit\nExtension/ Expansion/ Improvement\nBalance Transfer Facility (BTF) against existing financing facility of borrower from other banks/DFIs.\nNote: Housing finance will not be allowed purely for the purchase of land/ plot"
     },
     {
-      "instruction": "Processing Charges will be as per prevailing Bank’s Schedule of Charges (SOC).",
+      "instruction": "What is the minimum age for applying NUST Mortgage Finance?",
       "input": "",
-      "output": "13. What is the repayment mode?\nPayment of Equal Monthly Installment (EMI) comprising of principal, mark-up and Insurance cost etc. will be made through Direct Debit Authority (DDA) of borrower’s account maintained with NUST.\n14. Is Property insurance coverage mandatory?\nYes. Property Insurance is mandatory; Insurance premium is born by the borrower. It covers construction cost of financed house and value of property in case of apartment.\n15. Can I make balloon payments or premature termination is allowed?\nYes, Balloon payment or premature termination option is available for all customers. Charges will be applied as per prevailing Bank’s schedule of charges.\n16. Can the loan amount be used for any other purpose?\nNo, the loan amount can only be used for specific purpose i.e.\nPurchase of House/ Apartment/ Flat/ Residential Unit\nPurchase of Plot (+) plus Construction\nConstruction of House/ Residential Unit on already owned plot\nRenovation of House/ Apartment/ Flat/ Residential Unit\nExtension/ Expansion/ Improvement\nBalance Transfer Facility (BTF) against existing financing facility of borrower from other banks/DFIs.\n17.In which area of the country one can avail House Finance form NUST?\nMortgage Finance facility can be availed from all cities / areas without discrimination.\n18. Where financing is not allowed?\nThe financing shall not be allowed for;\nCommercial Properties.\nConstruction or possession of land on the encroached area of Public/ Government Land.\nProperties built against Housing Authority By-Laws.\n14. What is the Application processing time?\nThe processing time of Mortgage Finance is 30 days form login till approval subject to complete application with required documents."
+      "output": "Salaried : 21 Years\nSEB/SEP: 23 Years"
+    },
+    {
+      "instruction": "What is the Maximum age criteria for applying NUST Mortgage Finance?",
+      "input": "",
+      "output": "Salaried Permanent : 60 Years at the maturity of loan\nSalaried Contractual: 65 Years at the Matrurity of loan\nPensioners: 65 Years at the maturity of loan\nSEB/SEP: 65 Years at the maturity of loan"
+    },
+    {
+      "instruction": "Can overseas Pakistanis obtain House Finance facility from NUST?",
+      "input": "",
+      "output": "Yes. However can apply as Co-Borrower with veriable income. Basic borrower from Pakistan should also meet the required basic criteria for MF."
+    },
+    {
+      "instruction": "What is the minimum and maximum financing amount?",
+      "input": "",
+      "output": "The minimum financing amount is Rs. 500,000/.\nThe maximum financing limit will be up to Rs.100,000,000/- subject to 50% Debt Burden Ratio(DBR) as per SBP PRs for Housing Finance."
+    },
+    {
+      "instruction": "What would be the financing tenure?",
+      "input": "",
+      "output": "Loan tenure is Minimum 3 years and maximum 25 years"
+    },
+    {
+      "instruction": "Can I obtain financing on my owned property by mortgaging it?",
+      "input": "",
+      "output": "Yes, purpose of finance has to be in line with the purpose defined by regulator i.e.\nFinancing for construction of house on owned residential plot.\nBalance Transfer Facility (BTF) against existing financing facility of borrower from other banks/ DFIs.\nRenovation of owned House/ Apartment/ Flat/ Residential Unit\nExtension/ Expansion/ Improvement of Residential Unit"
+    },
+    {
+      "instruction": "Can I avail more than one House loan?",
+      "input": "",
+      "output": "Yes. One can avail two Mortgage Loans at a time from NUST Bank within Debt Burden Ratio (DBR) as per prevailing SBP PRs for Housing Finance."
+    },
+    {
+      "instruction": "Can I avail income tax rebate on House Financing?",
+      "input": "",
+      "output": "Yes, one can claim tax rebate against its House Finance mark-up paid during the year, or as per prevailing Tax laws of the country."
+    },
+    {
+      "instruction": "What is the minimum monthly income criterion?",
+      "input": "",
+      "output": "Salaried: Permanent Rs. 50,000/-, Contractual Rs. 60,000/-, Govt. Employee Contractual 75,000/-\nArmed Forces: 25,000/-"
+    },
+    {
+      "instruction": "Can I club income of Co-Borrower?",
+      "input": "",
+      "output": "Yes. Clubbing of Co-Borrower income may be allowed in case of spouse/son/parents/un-married daughter/Sibling."
+    },
+    {
+      "instruction": "What are the processing charges for NUST Mortgage FInance?",
+      "input": "",
+      "output": "Processing Charges will be as per prevailing Bank’s Schedule of Charges (SOC)."
+    },
+    {
+      "instruction": "What is the repayment mode?",
+      "input": "",
+      "output": "Payment of Equal Monthly Installment (EMI) comprising of principal, mark-up and Insurance cost etc. will be made through Direct Debit Authority (DDA) of borrower’s account maintained with NUST."
+    },
+    {
+      "instruction": "Is Property insurance coverage mandatory?",
+      "input": "",
+      "output": "Yes. Property Insurance is mandatory; Insurance premium is born by the borrower. It covers construction cost of financed house and value of property in case of apartment."
+    },
+    {
+      "instruction": "Can I make balloon payments or premature termination is allowed?",
+      "input": "",
+      "output": "Yes, Balloon payment or premature termination option is available for all customers. Charges will be applied as per prevailing Bank’s schedule of charges."
+    },
+    {
+      "instruction": "Can the loan amount be used for any other purpose?",
+      "input": "",
+      "output": "No, the loan amount can only be used for specific purpose i.e.\nPurchase of House/ Apartment/ Flat/ Residential Unit\nPurchase of Plot (+) plus Construction\nConstruction of House/ Residential Unit on already owned plot\nRenovation of House/ Apartment/ Flat/ Residential Unit\nExtension/ Expansion/ Improvement\nBalance Transfer Facility (BTF) against existing financing facility of borrower from other banks/DFIs."
+    },
+    {
+      "instruction": "In which area of the country one can avail House Finance form NUST?",
+      "input": "",
+      "output": "Mortgage Finance facility can be availed from all cities / areas without discrimination."
+    },
+    {
+      "instruction": "Where financing is not allowed?",
+      "input": "",
+      "output": "The financing shall not be allowed for;\nCommercial Properties.\nConstruction or possession of land on the encroached area of Public/ Government Land.\nProperties built against Housing Authority By-Laws."
+    },
+    {
+      "instruction": "What is the Application processing time?",
+      "input": "",
+      "output": "The processing time of Mortgage Finance is 30 days form login till approval subject to complete application with required documents."
     },
     {
       "instruction": "How will I get update of my House Loan Application?",
@@ -832,6 +987,11 @@
       "output": "Existing Business Minimum 03 year operating history of business"
     },
     {
+      "instruction": "What should be the legal structure of business for availing  NUST Imarat Finance?",
+      "input": "",
+      "output": "Sole Proprietor, Partnership Firm(registered), Private Limited Company, Limited Company"
+    },
+    {
       "instruction": "What is the security requirement for availing NUST Imarat Finance?",
       "input": "",
       "output": "i. Effective Mortgage (Equitable / or token registered) to be created on same urban Commercial / Industrial property which has been financed\nii. 03 post dated cheques of the full loan amount plus markup\niii. Personal Guarantees from borrowers, all partners and directors of the companies alongwith “Personal Net worth Statement”.\niv. Fard based property to be registered equivalent to the full loan amount"
@@ -924,6 +1084,11 @@
       "output": "SE/ME/Vendor/Supplier | Rs: 6000/- or @0.5% of loan whichever is higher\nDomestic Borrower | Rs: 5000/-\nNUST Employees | No Processing Fee"
     },
     {
+      "instruction": "Is there any late payment charges?",
+      "input": "",
+      "output": "In case of delay of installment, commercial rate will be charges on overdue days."
+    },
+    {
       "instruction": "What are the service/documentation/legal charges in NUST Ujala Finance?",
       "input": "",
       "output": "At actual"
@@ -953,7 +1118,7 @@
     {
       "instruction": "Is there any minimum age to avail financing in NUST Flour Mill Finance?",
       "input": "",
-      "output": "Age of borrower (in case of sole-proprietorship) must be minimum 20 years, however age not to exceed 65 years at the time of application. This age can be relaxed in case of effective succession planning for business operations."
+      "output": "Age of borrower (in case of sole-proprietorship) must be minimum 20 years, however age not to exceed 65 years at the time of application. This age can be relaxed in case of effective succession planning for business operations.\n* This criteria is not applicable , if business concern is a partnership or limited company"
     },
     {
       "instruction": "What is the maximum tenure of NUST Flour Mill Finance?",
@@ -969,6 +1134,11 @@
       "instruction": "Any Account turnover requirement for NUST Flour Mill Finance?",
       "input": "",
       "output": "Minimum 50% of applicant’s sales to be documented through account turnover with bank(s)."
+    },
+    {
+      "instruction": "What are the processing charges for NUST Flour Mill Finance Application?",
+      "input": "",
+      "output": "Processing fee will be charged @ 0.15% of total limit(s) processed/approved or Rs. 25,000/- whichever is higher"
     },
     {
       "instruction": "What are the service/documentation/legal charges in NUST Flour Mill Finance?",
@@ -1167,6 +1337,11 @@
       "output": "Minimum 50% of applicant’s sales to be documented through account turnover with bank(s)."
     },
     {
+      "instruction": "What are the processing charges for NUST Rice Finance Application?",
+      "input": "",
+      "output": "Processing fee will be charged @ 0.15% of total limit(s) processed/approved or Rs. 25,000/- whichever is higher"
+    },
+    {
       "instruction": "What are the service/documentation/legal charges in NUST Rice Finance?",
       "input": "",
       "output": "At actual"
@@ -1199,6 +1374,11 @@
       "output": "Tier 2\nAbove Rs. 0.5M and up to Rs 1.5M | Tier 3\nAbove Rs 1.5 M and up to Rs 7.5M"
     },
     {
+      "instruction": "Is there any minimum age to avail financing in NUST Hunarmand Finance?",
+      "input": "",
+      "output": "All Pakistanis aged between 21 and 45 are eligible to apply, however for IT/E-Commerce related businesses, the lower age limit will be 18 years"
+    },
+    {
       "instruction": "What is the maximum tenure in NUST Hunarmand Finance?",
       "input": "",
       "output": "Long Term Loan: Maximum 8 Years (Maximum 1 Year Grace Period)\nWorking Capital Loan: Maximum 05 Years (Maximum 2 Year Grace Period)\n*Markup will be recovered during grace period"
@@ -1224,6 +1404,11 @@
       "output": "i. Personal guarantee of borrower for loans up to 1.5M, and direct debit authority of borrower/pensioner/guarantor to be obtained\nii. For loans above 1.5M, it shall be secured against movable as well as immovable assets of borrowers as defined under PMYB&ALs\niii. Guarantee of serving officer of armed forces in case of his family (spouse or children) avail loan under this program."
     },
     {
+      "instruction": "Are there any late payment charges?",
+      "input": "",
+      "output": "Late payment charges PKR 1,000/- plus FED will be charges after 30th day of installment overdue."
+    },
+    {
       "instruction": "What are the charges applicable for NUST Hunarmand Finance?",
       "input": "",
       "output": "Applicable as per PMYB & ALS"
@@ -1233,136 +1418,66 @@
     {
       "instruction": "Can I purchase Bancassurnce policy from my account maintained with NUST Bank?",
       "input": "",
-      "output": "Yes, every customer who attain the age of 18 and have account with NUST Bank can eligible to purchse Bancassurnce policy from his account."
-    },
-    {
-      "instruction": "Bancassurance is offiered by following three Insurance Provider companies:",
-      "input": "",
-      "output": "- NUST Life Assurancee Company Ltd\n- EFU Life Assurence Company Ltd\n- Jubilee Life Insurance Company Ltd."
+      "output": "Yes, every customer who attain the age of 18 and have account with NUST Bank can eligible to purchse Bancassurnce policy from his account.\nBancassurance is offiered by following three Insurance Provider companies:\n- NUST Life Assurancee Company Ltd\n- EFU Life Assurence Company Ltd\n- Jubilee Life Insurance Company Ltd."
     },
     {
       "instruction": "What are the main features of NUST Life Bancassurnace Policy?",
       "input": "",
-      "output": "- Short term Family Protection and in Long term Savings"
-    },
-    {
-      "instruction": "-  Minimum Policy Amount = 18,000 No Maximum Limit of policy for Munafa Fahfooz Plan Min Premium = 50,000",
-      "input": "",
-      "output": "- NUST Life Munafa Mehfooz Plan Minumum & Maximum Term = 5 Years\n- NUST Life Value Plan Minimum Policy Term = 10 Years"
-    },
-    {
-      "instruction": "-  Additional benefits also available on cost (Riders and additional term insurance)",
-      "input": "",
-      "output": "- NUST Life offer diffent plans to customer as per needs and demands of customers"
+      "output": "- Short term Family Protection and in Long term Savings\n- Minimum Policy Amount = 18,000 No Maximum Limit of policy for Munafa Fahfooz Plan Min Premium = 50,000\n- NUST Life Munafa Mehfooz Plan Minumum & Maximum Term = 5 Years\n- NUST Life Value Plan Minimum Policy Term = 10 Years\n- Additional benefits also available on cost (Riders and additional term insurance)\n- NUST Life offer diffent plans to customer as per needs and demands of customers"
     },
     {
       "instruction": "How many NUST Life  Insurance Plans available?",
       "input": "",
-      "output": "Plan Type | Premium\no NUST Life Value Plan | Life time Protection and Saving Plan | 18K"
+      "output": "Plan Type | Premium\no NUST Life Value Plan | Life time Protection and Saving Plan | 18K\no NUST Life Munafa Mehfooz Plan | Limited Time Plan (5 Years) | 50K"
     },
     {
       "instruction": "What are the main features of these NUST Life Insurance Plans",
       "input": "",
-      "output": "- 14 Days Free Look Period start from the day customer received Policy Documents.\n- Direct Investment system growth Plans (NUST Life directly invest funds in Universal Life Mutual fund\n- NUST bank is only act as a Corporate Sales Agent, It’s a Insurance plan not to be considered as any Bank Account of Term depoist which have annual Fixed Returns.\n- In case of early termination, only Cash Value of policy will be payable to customer\n- Cancellation of policy and full refund option is available if policy documents returned during Free Lookup Period i.e. 14 days of receipt of documents\n- Cash Values of policy may be differ from the tentaive returns provided on illustration document (illustration document is only for information)\nOther Important Information about NUST Life Insurance Plans"
-    },
-    {
-      "instruction": "- Munafa Mehfooz Plan is limited time plan of 5 Years with first year High Allocation and upfront loyalty bonus i.e. 20% on first year",
-      "input": "",
-      "output": "- In case of early termination of Munafa Mehfooz Plan - upfront loyalty bonus amount value will be subtracted from the cash value of policy\n- In case of death Cash Value or Sum Assured whichiver is higher will be paid to nominee/s\n- Annaul / Half Yearly / Quarterly - Policy Premium Payment Mode Available as per customer conveience\n- Policy Growth depends on Accociated Mutual Fund growth\n- Death Claims will be handled by NUST Life subject of completion of required documents and eligible if policy status is Active Inforced/Reinstated only\nFor All NUST Life Banca Products Brochures available"
+      "output": "- 14 Days Free Look Period start from the day customer received Policy Documents.\n- Direct Investment system growth Plans (NUST Life directly invest funds in Universal Life Mutual fund\n- NUST bank is only act as a Corporate Sales Agent, It’s a Insurance plan not to be considered as any Bank Account of Term depoist which have annual Fixed Returns.\n- In case of early termination, only Cash Value of policy will be payable to customer\n- Cancellation of policy and full refund option is available if policy documents returned during Free Lookup Period i.e. 14 days of receipt of documents\n- Cash Values of policy may be differ from the tentaive returns provided on illustration document (illustration document is only for information)\nOther Important Information about NUST Life Insurance Plans\n- Munafa Mehfooz Plan is limited time plan of 5 Years with first year High Allocation and upfront loyalty bonus i.e. 20% on first year\n- In case of early termination of Munafa Mehfooz Plan - upfront loyalty bonus amount value will be subtracted from the cash value of policy\n- In case of death Cash Value or Sum Assured whichiver is higher will be paid to nominee/s\n- Annaul / Half Yearly / Quarterly - Policy Premium Payment Mode Available as per customer conveience\n- Policy Growth depends on Accociated Mutual Fund growth\n- Death Claims will be handled by NUST Life subject of completion of required documents and eligible if policy status is Active Inforced/Reinstated only\nFor All NUST Life Banca Products Brochures available"
     }
   ],
   "EFU Life": [
     {
       "instruction": "Can I purchase Bancassurnce policy from my account maintained with NUST Bank?",
       "input": "",
-      "output": "Yes, every customer who attain the age of 18 and have account with NUST Bank can eligible to purchse Bancassurnce policy from his account."
-    },
-    {
-      "instruction": "Bancassurance is offiered by following three Insurance Provider companies:",
-      "input": "",
-      "output": "- NUST Life Assurancee Company Ltd\n- EFU Life Assurence Company Ltd\n- Jubilee Life Insurance Company Ltd."
+      "output": "Yes, every customer who attain the age of 18 and have account with NUST Bank can eligible to purchse Bancassurnce policy from his account.\nBancassurance is offiered by following three Insurance Provider companies:\n- NUST Life Assurancee Company Ltd\n- EFU Life Assurence Company Ltd\n- Jubilee Life Insurance Company Ltd."
     },
     {
       "instruction": "What are the main features of EFU Bancassurnace Policy?",
       "input": "",
-      "output": "- Family Protection and Long term savings"
-    },
-    {
-      "instruction": "-  Minimum Policy Amount = 18,000 No Maximum Limit of policy",
-      "input": "",
-      "output": "- Minimum Policy Term = 10 Years (Except Single Premium Plan)"
-    },
-    {
-      "instruction": "-  Additional benefits also available on cost (Riders and additional term insurance)",
-      "input": "",
-      "output": "- EFU Life offer diffent plans to customer as per needs and demands of customers"
+      "output": "- Family Protection and Long term savings\n- Minimum Policy Amount = 18,000 No Maximum Limit of policy\n- Minimum Policy Term = 10 Years (Except Single Premium Plan)\n- Additional benefits also available on cost (Riders and additional term insurance)\n- EFU Life offer diffent plans to customer as per needs and demands of customers"
     },
     {
       "instruction": "How many EFU Insurance Plans available?",
       "input": "",
-      "output": "Plan Type | Premium\no EFU Savings and Protection Plan | Life time Protection and Saving Plan | 18K"
-    },
-    {
-      "instruction": "o   EFU Education and Marriage Plan | Limited Time Plan (Countinuation Benefits) | 18K",
-      "input": "",
-      "output": "o EFU Retirement Plan | Saving & Protection | 18K\no EFU - Single Premium Plan | Single Premium Investment Plan | 100K\no EFU Aggressive Growth Plan | High Allocation Investment & Savings Plan | 250K"
+      "output": "Plan Type | Premium\no EFU Savings and Protection Plan | Life time Protection and Saving Plan | 18K\no EFU Education and Marriage Plan | Limited Time Plan (Countinuation Benefits) | 18K\no EFU Retirement Plan | Saving & Protection | 18K\no EFU - Single Premium Plan | Single Premium Investment Plan | 100K\no EFU Aggressive Growth Plan | High Allocation Investment & Savings Plan | 250K"
     },
     {
       "instruction": "What are the main features of these EFU Insurance Plans?",
       "input": "",
-      "output": "- 14 Days Free Look Period start from the day customer received Policy Documents. | #REF!\n- Unit Link growth system (EFU allocate Mutual fund units to customer, policy growth depends on the unit rate groth just like share Market)\n- NUST bank is only act as a Corporate Sales Agent, It’s a Insurance plan not to be considered as any Account of Term depoist which have annual Fixed Returns.\n- In case of early termination, only Cash Value of policy will be payable to customer (current market rate of Mutual funds units will be reimbursed)\n- Cancellation of policy and full refund option is available if policy documents returned during Free Lookup Period i.e. 14 days of receipt of documents\n- Cash Values of policy may be differ from the tentaive returns provided on illustration document (illustration document is only for information)\nOther Important Information about EFU Insurance Plans"
-    },
-    {
-      "instruction": "- Only Education and Marriage Plans are Limited time plan with Countinuation Benefits (in case of death payment will be made upon maturity)",
-      "input": "",
-      "output": "- Single Premium Plan which can be terminate at any time, in case of death Cash Value or Sum Assured whichiver is higher will be paid\n- Annaul / Half Yearly / Quarterly - Policy Premium Payment Modes Available as per customer conveience\n- Aggressive Growth Plan is a high risk Plan depends on customer profile\n- Death Claims will be handled by EFU subject of completion of required documents and eligible if policy status is Active Inforced/Reinstated only\nFor All EFU Life Banca Products Brochures available"
+      "output": "- 14 Days Free Look Period start from the day customer received Policy Documents. | #REF!\n- Unit Link growth system (EFU allocate Mutual fund units to customer, policy growth depends on the unit rate groth just like share Market)\n- NUST bank is only act as a Corporate Sales Agent, It’s a Insurance plan not to be considered as any Account of Term depoist which have annual Fixed Returns.\n- In case of early termination, only Cash Value of policy will be payable to customer (current market rate of Mutual funds units will be reimbursed)\n- Cancellation of policy and full refund option is available if policy documents returned during Free Lookup Period i.e. 14 days of receipt of documents\n- Cash Values of policy may be differ from the tentaive returns provided on illustration document (illustration document is only for information)\nOther Important Information about EFU Insurance Plans\n- Only Education and Marriage Plans are Limited time plan with Countinuation Benefits (in case of death payment will be made upon maturity)\n- Single Premium Plan which can be terminate at any time, in case of death Cash Value or Sum Assured whichiver is higher will be paid\n- Annaul / Half Yearly / Quarterly - Policy Premium Payment Modes Available as per customer conveience\n- Aggressive Growth Plan is a high risk Plan depends on customer profile\n- Death Claims will be handled by EFU subject of completion of required documents and eligible if policy status is Active Inforced/Reinstated only\nFor All EFU Life Banca Products Brochures available"
     }
   ],
   "Jubilee Life ": [
     {
       "instruction": "Can I purchase Bancassurnce policy from my account maintained with NUST Bank?",
       "input": "",
-      "output": "Yes, every customer who attain the age of 18 and have account with NUST Bank can eligible to purchse Bancassurnce policy from his account."
-    },
-    {
-      "instruction": "Bancassurance is offiered by following three Insurance Provider companies:",
-      "input": "",
-      "output": "- NUST Life Assurancee Company Ltd\n- EFU Life Assurence Company Ltd\n- Jubilee Life Insurance Company Ltd."
+      "output": "Yes, every customer who attain the age of 18 and have account with NUST Bank can eligible to purchse Bancassurnce policy from his account.\nBancassurance is offiered by following three Insurance Provider companies:\n- NUST Life Assurancee Company Ltd\n- EFU Life Assurence Company Ltd\n- Jubilee Life Insurance Company Ltd."
     },
     {
       "instruction": "What are the main features of JLI Bancassurnace Policy?",
       "input": "",
-      "output": "- Short term Family Protection and in Long term Savings"
-    },
-    {
-      "instruction": "-  Minimum Policy Amount = 18,000 No Maximum Limit of policy",
-      "input": "",
-      "output": "- Minimum Policy Term = 10 Years"
-    },
-    {
-      "instruction": "-  Additional benefits also available on cost (Riders and additional term insurance)",
-      "input": "",
-      "output": "- Jubilee Life offer diffent plans to customer as per needs and demands of customers"
+      "output": "- Short term Family Protection and in Long term Savings\n- Minimum Policy Amount = 18,000 No Maximum Limit of policy\n- Minimum Policy Term = 10 Years\n- Additional benefits also available on cost (Riders and additional term insurance)\n- Jubilee Life offer diffent plans to customer as per needs and demands of customers"
     },
     {
       "instruction": "How many Jubilee Life Insurance Plans available?",
       "input": "",
-      "output": "Plan Type | Premium\no Jubilee Life Savings and Protection Plan | Life time Protection and Saving Plan | 18K"
-    },
-    {
-      "instruction": "o   Jubilee Life Marriage Plan | Limited Time Plan (Countinuation Benefits) | 18K",
-      "input": "",
-      "output": "o Jubilee Life Retirement Plan | Saving & Protection | 18K"
+      "output": "Plan Type | Premium\no Jubilee Life Savings and Protection Plan | Life time Protection and Saving Plan | 18K\no Jubilee Life Education Plan | Limited Time Plan (Countinuation Benefits) | 18K\no Jubilee Life Marriage Plan | Limited Time Plan (Countinuation Benefits) | 18K\no Jubilee Life Retirement Plan | Saving & Protection | 18K"
     },
     {
       "instruction": "What are the main features of these Jubilee Life Insurance Plans",
       "input": "",
-      "output": "- 14 Days Free Look Period start from the day customer received Policy Documents. | #REF!\n- Unit Link growth system (JLI allocate Mutual fund units to customer, policy growth depends on the unit rate groth just like share Market)\n- NUST bank is only act as a Corporate Sales Agent, It’s a Insurance plan not to be considered as any Account of Term depoist which have annual Fixed Returns.\n- In case of early termination, only Cash Value of policy will be payable to customer (current market rate of Mutual funds units will be reimbursed)\n- Cancellation of policy and full refund option is available if policy documents returned during Free Lookup Period i.e. 14 days of receipt of documents\n- Cash Values of policy may be differ from the tentaive returns provided on illustration document (illustration document is only for information)\nOther Important Information about Jubilee Life Insurance Plans"
-    },
-    {
-      "instruction": "- Only Education and Marriage Plans are Limited time plan with Countinuation Benefits (in case of death payment will be made upon maturity)",
-      "input": "",
-      "output": "- In case of death Cash Value or Sum Assured whichiver is higher will be paid\n- Annaul / Half Yearly / Quarterly - Policy Premium Payment Mode Available as per customer conveience\n- Policy Growth depends on Accociated Mutual Fund units market rate growth (Multiple funds choices available from JLI)\n- Death Claims will be handled by Jubilee Life subject of completion of required documents and eligible if policy status is Active Inforced/Reinstated only\nFor All Jubilee Life Banca Products Brochures available"
+      "output": "- 14 Days Free Look Period start from the day customer received Policy Documents. | #REF!\n- Unit Link growth system (JLI allocate Mutual fund units to customer, policy growth depends on the unit rate groth just like share Market)\n- NUST bank is only act as a Corporate Sales Agent, It’s a Insurance plan not to be considered as any Account of Term depoist which have annual Fixed Returns.\n- In case of early termination, only Cash Value of policy will be payable to customer (current market rate of Mutual funds units will be reimbursed)\n- Cancellation of policy and full refund option is available if policy documents returned during Free Lookup Period i.e. 14 days of receipt of documents\n- Cash Values of policy may be differ from the tentaive returns provided on illustration document (illustration document is only for information)\nOther Important Information about Jubilee Life Insurance Plans\n- Only Education and Marriage Plans are Limited time plan with Countinuation Benefits (in case of death payment will be made upon maturity)\n- In case of death Cash Value or Sum Assured whichiver is higher will be paid\n- Annaul / Half Yearly / Quarterly - Policy Premium Payment Mode Available as per customer conveience\n- Policy Growth depends on Accociated Mutual Fund units market rate growth (Multiple funds choices available from JLI)\n- Death Claims will be handled by Jubilee Life subject of completion of required documents and eligible if policy status is Active Inforced/Reinstated only\nFor All Jubilee Life Banca Products Brochures available"
     }
   ],
   "HOME REMITTANCE": [

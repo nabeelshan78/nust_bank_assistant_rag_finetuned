@@ -1,0 +1,449 @@
+Metrics Summary:
+ROUGE-1: 0.5922
+BERTScore F1: 0.9211
+
+--- Detailed Sample Predictions ---
+Sample 1:
+Reference: Yes, the NUST mobile app can be accessed globally. Ensure you have internet connectivity and your registered mobile number is active for OTPs if required.
+Predicted: Yes, the NUST mobile app can be accessed globally. Ensure you have internet connectivity and your registered mobile number is active for OTPs if required.
+Semantic Score: 1.0000
+------------------------------
+Sample 2:
+Reference: I advise caution. Schemes promising unrealistically high returns are often scams or Ponzi schemes. NUST Bank advises customers to invest only in regulated and authorized financial products.
+Predicted: I cannot directly access external links or specific investment schemes. I can tell you about popular investment options available with NUST Bank if you'd like.
+Semantic Score: 0.8635
+------------------------------
+Sample 3:
+Reference: Tier 2
+10% (New Business) | Tier 3
+20% (New Business) | Existing Business
+Nil
+Predicted: Tier 2
+10% (New Business) | Tier 3
+20% (New Business) | Existing Business
+Nil
+Semantic Score: 1.0000
+------------------------------
+Sample 4:
+Reference: * For Current Account only
+Predicted: Monthly Average Balance Requirement Rs.1000
+Semantic Score: 0.8129
+------------------------------
+Sample 5:
+Reference: Age of borrower (in case of sole-proprietorship) must be minimum 20 years, however age not to exceed 65 years at the time of application. This age can be relaxed in case of effective succession planning for business operations.
+Predicted: Minimum 20 years (in case of sole proprietorship)
+Maximum 65 years at the time of application.
+* This criteria is not applicable if business concern is a partnership or limited company
+Maximum age can be relaxed in case of effective succession planning is available.
+Semantic Score: 0.9144
+------------------------------
+Sample 6:
+Reference: - Short term Family Protection and in Long term Savings
+Predicted: - Short term Family Protection and in Long term Savings
+Semantic Score: 1.0000
+------------------------------
+Sample 7:
+Reference: Government Organizations, Corporations
+Clubs, Societies, Associations,
+NGOs/NPOs/Charitable Organizations
+Predicted: Profit Payment | Monthly | 0.19
+Semantic Score: 0.7837
+------------------------------
+Sample 8:
+Reference: - A photocopy of Form-B, Birth Certificate or Student ID card (as appropriate) of the minor
+Predicted: A photocopy of any one of the following valid identity documents of the guardian of the minor:
+- Computerized National Identity Card (CNIC) issued by NADRA
+- National Identity Card for Overseas Pakistani (NICOP) issued by NADRA
+- Pakistan Origin Card (POC) issued by NADRA
+- Alien Registration Card (ARC) issued by National Aliens Registration Authority (NARA)
+- Passport, with a valid visa or any other proof of legal stay along with passport (foreign national individuals only)
+Semantic Score: 0.8453
+------------------------------
+Sample 9:
+Reference: Skilled/Unskilled Workforce
+Less Educated/Uneducated People
+Farmers, Laborers/Daily Wagers
+Women/Housewives
+Self-Employed Individuals
+Young Adults
+Predicted: Skilled/Unskilled Workforce
+Less Educated/Uneducated People
+Farmers, Laborers/Daily Wagers
+Women/Housewives
+Self-Employed Individuals
+Young Adults
+Semantic Score: 1.0000
+------------------------------
+Sample 10:
+Reference: Zakat and taxes are applicable as per law
+Predicted: Zakat and taxes are applicable as per law
+Semantic Score: 1.0000
+------------------------------
+Sample 11:
+Reference: Minimum 50% of applicant’s sales to be documented through account turnover with bank(s).
+Predicted: Minimum 50% of applicant’s sales to be documented through account turnover with bank(s).
+Semantic Score: 1.0000
+------------------------------
+Sample 12:
+Reference: 8. Can I avail more than one vehicle through Auto loan facility?
+Predicted: Minimum 30%  equity +(1st Year Insurance + documentation charges) is required as down payment
+Semantic Score: 0.8305
+------------------------------
+Sample 13:
+Reference: Rs. 3,000/- per installment
+Predicted: Rs. 3,000/- per installment
+Semantic Score: 1.0000
+------------------------------
+Sample 14:
+Reference: Yes, remittance can be sent from around the globe to Pakistan through our agent Partners like Western Union, Mastercard, Dandelion Payments (RIA) etc.
+For more information please go through the below link:
+https://NUSTbank.com/services-home-remittance-our-partners/
+Predicted: Remittance can be sent from any of the NUST domestic branches nationwide.
+Semantic Score: 0.8583
+------------------------------
+Sample 15:
+Reference: Profit Payment | Profit Rate
+Offered in LCY (PKR) & FCY (USD, GBP, EUR, JPY & AED) | Semi-Annually | 0.19
+Account opening deposit of Rs.100 for LCY, US $500 or equivalent for FCY | PLS Pensioners Account
+Debit Card Issuance against LCY account | Profit Payment | Profit Rate
+Profit Calculation- Monthly Average Balance | Semi-Annually | 0.1925
+Profit Payment Frequency- Semi-Annually
+Predicted: - Monthly profit payment on monthly basis
+- Profit calculation on Monthly Average Balance
+Semantic Score: 0.8347
+------------------------------
+Sample 16:
+Reference: Existing Business Should be women owned enterprises with Minimum 01 year of business registration
+New Business: Nil
+Predicted: New Business
+Between 20-50 years at the time of application | Existing Business
+Between 20-65 years at the time of application
+Semantic Score: 0.8466
+------------------------------
+Sample 17:
+Reference: Maximum 1 year as per clean-up corridors
+Predicted: Cash Finance
+Max 270 Days or Clean-up corridors upto 360 days. | Running Finance
+One Year
+Semantic Score: 0.8663
+------------------------------
+Sample 18:
+Reference: Sole Proprietor, Partnership Firm, Private Limited Company, Single Member Company (SMC), Business Individuals (Women Owned)
+*In Partnership firm/ Private Limited Company, having 02 partners or directors, minimum 51% shareholder/ CEO should be a a femle who should also be the applicant. If there are more than 02 partners or directors, major share holder should be women , who should also be CEO and applicant
+Predicted: SE/ME Financing: Minimum 30 years at the time of application, however age not to exceed 60 years at maturity of loan.
+Semantic Score: 0.8133
+------------------------------
+Sample 19:
+Reference: At actual
+Predicted: At actual
+Semantic Score: 1.0000
+------------------------------
+Sample 20:
+Reference: - No Opening Balance Requirements
+- No Minimum Monthly Average Balance Requirements
+- Allocation of Lockers (upon availability)**
+Predicted: No initial deposit requirement
+Rs. 100 only for Debit Card issuance *
+Semantic Score: 0.8514
+------------------------------
+Sample 21:
+Reference: Corporate & Commercial Organizations
+NGOs / NPOs / Trust/ Charitable Organizations
+Predicted: - No minimum average monthly balance requirement
+Semantic Score: 0.8091
+------------------------------
+Sample 22:
+Reference: Yes PakWatan Remittance Account.
+Through the PakWatan Remittance Account, beneficiaries can quickly and securely receive remittances from their loved one living abroad directly into their bank account without visiting the branch.
+Predicted: Yes PakWatan Remittance Account.
+Through the PakWatan Remittance Account, beneficiaries can quickly and securely receive remittances from their loved one living abroad directly into their bank account without visiting the branch.
+Semantic Score: 1.0000
+------------------------------
+Sample 23:
+Reference: Free E-statement & I-Net Banking
+Free Inter Branch Online Cash Deposit/Withdrawal (Online)
+Free Internal Fund Transfer within NUST via branch (Online Transfer)
+Free Banker’s Cheque Issuance
+Free SMS Alerts on Digital Transaction
+Predicted: - First Cheque Book of 25 Leaves*
+- NUST Visa Debit Card Issuance* (annual and replacement fee would apply)
+- Bankers Cheque Issuance
+- Inter Branch Online Cash Withdrawal/ Deposit (Online)
+- Internal Fund Transfer within NUST via branch (Online Transfer)
+- Internet Banking
+- SMS Alerts on digital transactions
+- E-statements
+- I-Net Banking
+- E-statement Notification
+- Same Day & Same Branch Cash Withdrawal Facility
+- Same Day National Inter-Bank Online Cash Withdrawal/ Deposit (Online)
+Semantic Score: 0.8981
+------------------------------
+Sample 24:
+Reference: SME, NUST Employees and Domestic: Energy generation for own use or for supply to the distribution company / NEPRA | Vendors/Suppliers: Onward leasing of renewable energy equipment / deferred payment sales / rental basis or sale of electricity to ultimate users
+Predicted: i. To meet energy requirements of rural areas by financing installation of solar energy equipment / renewable energy generators / charging stations for electric vehicles.
+ii. To provide electricity supply to rural areas / villages through alternative sources of energy i.e. solar / mini-hydro power etc.
+iii. Meeting the energy needs of rural households and businesses through solar energy solutions.
+Semantic Score: 0.8390
+------------------------------
+Sample 25:
+Reference: Individuals running a freelance service business
+Predicted: NUST Freelancer Digital Account is specially designed for Freelancers, so that they can receive their payments directly in a bank account and enjoy other lifestyle banking services as well.
+Semantic Score: 0.8495
+------------------------------
+Sample 26:
+Reference: Flat @ Rs. 3,000/- (at the time of initiating and on each renewal)
+Predicted: Flat @ Rs. 3,000/- (at the time of initiating and on each renewal)
+Semantic Score: 1.0000
+------------------------------
+Sample 27:
+Reference: - First Debit Card Issuance*
+- SMS Alerts on Digital Transactions
+- I-Net Banking
+. Internal Fund Transfer within NUST via branch (Online Transfer)
+. Inter Branch Online Cash Withdrawal/ Deposit (Online)
+- E-statement Facility
+- Debit card and Cheque book delivery at customer address & activation via Contact Centre
+Predicted: - First Debit Card Issuance*
+- SMS Alerts on Digital Transactions
+- I-Net Banking
+. Internal Fund Transfer within NUST via branch (Online Transfer)
+. Inter Branch Online Cash Withdrawal/ Deposit (Online)
+- E-statement Facility
+- Debit card and Cheque book delivery at customer address & activation via Contact Centre
+Semantic Score: 1.0000
+------------------------------
+Sample 28:
+Reference: Resident Pakistani individuals who do not maintain/have any other account (single or joint) in NUST Bank Limited are eligible to open the NAA in Pak rupees as a single/joint account.
+Predicted: Resident Pakistani individuals who do not maintain/have any other account (single or joint) in NUST Bank Limited are eligible to open the NAA in Pak rupees as a single/joint account.
+Semantic Score: 1.0000
+------------------------------
+Sample 29:
+Reference: No, the availability of applicants & their employers is mandatory within Pakistan for applying clean Personal Finance.
+Predicted: No, the availability of applicants & their employers is mandatory within Pakistan for applying Personal Finance.
+Semantic Score: 0.9906
+------------------------------
+Sample 30:
+Reference: All home remittance payments are disbursed in Pak Rupees.
+Predicted: Remittances can be received in PKR or USD/GBP/EUR as per client's convenience.
+Semantic Score: 0.8714
+------------------------------
+Sample 31:
+Reference: You can receive your home remittance from any of NUST 600+ domestic branches nationwide if you have a valid CNIC and Transaction Unique Reference No. / Pin code.
+Predicted: You can receive your home remittance from any of NUST 600+ domestic branches nationwide if you have a valid CNIC and Transaction Unique Reference No. / Pin code.
+Semantic Score: 1.0000
+------------------------------
+Sample 32:
+Reference: 25% of the loans will go to women borrowers
+Predicted: Tier 2
+10% of the total loan amount will be allocated to women borrowers
+Semantic Score: 0.9336
+------------------------------
+Sample 33:
+Reference: NUST Special Deposit Account (ASDA)
+No Minimum Monthly Average Balance Requirement | Profit Payment | Profit Rate
+No Minimum Opening Balance Requirement | Monthly/Semi-Annually | 0.19
+Predicted: Minimum account opening deposit of Rs.1000/- | Minimum balance of Rs.25,000 to qualify for Discount on monthly profit payment |
+Semantic Score: 0.8537
+------------------------------
+Sample 34:
+Reference: o Cross border (outward) transactions shall not be allowed except in case of international transactions carried out through debit cards
+o Customers can place their funds in Bank’s prescribed TDR products. However, the maximum credit balance limit will be inclusive of funds placed in TDRs
+* For Current Account only
+Predicted: Semi-Annually | 0.19
+Semantic Score: 0.8133
+------------------------------
+Sample 35:
+Reference: Cash Finance
+Max 270 Days or Clean-up corridors whichever is earlier | Running Finance
+One Year
+Predicted: Cash Finance
+Max 270 Days or Clean-up corridors whichever is earlier | Running Finance
+One Year
+Semantic Score: 1.0000
+------------------------------
+Sample 36:
+Reference: Specifically for New Business:
+i) Only Professionals i.e. Chartered Accountants, Doctors, Engineers, IT Professionals, and consultants etc, with minimum 02 years professional experience.
+ii) Retired professionals from armed forces and families of serving armed forces officers
+*No Professional Qualification Required for existing business
+Predicted: Specifically for New Business:
+i) Only Professionals i.e. Chartered Accountants, Doctors, Engineers, IT Professionals, and consultants etc, with minimum 02 years professional experience.
+ii) Retired professionals from armed forces and families of serving armed forces officers
+*No Professional Qualification Required for existing business
+Semantic Score: 1.0000
+------------------------------
+Sample 37:
+Reference: NUST Asaan Digital Remittance account is a Current Account in PKR currency
+Predicted: NUST Asaan Digital Remittance Account offered Current Account in PKR & USD/GBP/EUR
+Semantic Score: 0.9256
+------------------------------
+Sample 38:
+Reference: Individuals- Beneficiaries (families) of Pakistanis working abroad
+Predicted: NUST Asaan Digital Remittance Account is specially designed for Pakistani Resident Individuals who wish to receive remittances from their families and friends living abroad, directly in a bank account without the hassle of visiting the branch.
+Semantic Score: 0.8380
+------------------------------
+Sample 39:
+Reference: At actual
+Predicted: At actual
+Semantic Score: 1.0000
+------------------------------
+Sample 40:
+Reference: Free Issuance of First Cheque book (10 Leaves)*
+Free First Issuance of UnionPay Debit Card*
+Free First Cheque Book & Debit Card Delivery*
+Free SMS alerts facility (Digital Transactions)
+Free accidental Death & Disability Insurance/Takaful up to PKR 2.5 mn on monthly average balance of PKR 100,000
+Predicted: Free Issuance of First Cheque book (10 Leaves)*
+Free First Issuance of UnionPay Debit Card*
+Free First Cheque Book & Debit Card Delivery*
+Free SMS alerts facility (Digital Transactions)
+Free accidental Death & Disability Insurance/Takaful up to PKR 2.5 mn on monthly average balance of PKR 100,000
+Semantic Score: 1.0000
+------------------------------
+Sample 41:
+Reference: Yes, after logging into the app, go to 'Profile' → 'Change MPIN' and follow the prompts to reset your MPIN securely.
+Predicted: Yes, after logging into the app, go to 'Profile' → 'Change MPIN' and follow the prompts to reset your MPIN securely.
+Semantic Score: 1.0000
+------------------------------
+Sample 42:
+Reference: All except individuals
+Predicted: Sole Proprietorship, Partnership, Private Limited Company, Limited Liability Partnership, Single Member Company (SMC), Business Name Registration with CNIC & Tax Registration
+Semantic Score: 0.7767
+------------------------------
+Sample 43:
+Reference: Offered in LCY (PKR) & FCY (USD, GBP, EUR, JPY & AED)
+Minimum Account Opening Deposit of Rs.5,000 for LCY, US $500 or equivalent for FCY
+No Minimum Monthly Balance Requirement
+Debit Card for PKR Account
+Predicted: Offered in both Individual & Commercial customers
+No Minimum Monthly average balance requirement for account maintenance | Individual - No minimum balance requirement | Commercial - Rs. 50,000/-
+Duplicate Account statement & I-Net Banking
+Free PayPak Debit Card Issuance* (subsequent charges apply)
+Semantic Score: 0.8429
+------------------------------
+Sample 44:
+Reference: Individuals (either singly or jointly)
+Proprietorship Concerns
+Partnership Firms
+Predicted: Individuals (either singly or jointly)
+Proprietorship Concerns
+Partnership Firms
+Semantic Score: 1.0000
+------------------------------
+Sample 45:
+Reference: NUST offers the following Home Remittance Products to cater to the needs of various home remittance
+beneficiaries in Pakistan:
+- Cash Over the Counter (CoC) payments for walk-in customers
+- NUST Account Transfer
+- Other Bank Account Transfer via Inter Bank Funds Transfer (IBFT) & Real Time Gross Settlement (RTGS)
+Predicted: NUST Bank has developed three tailored remittance products to cater to diverse needs of its customers:
+- NUST Remittance Account
+- NUST Multi-Purpose Account
+- Pak Wattan Remittance Account
+Semantic Score: 0.8761
+------------------------------
+Sample 46:
+Reference: Currently, the NUST mobile app supports English only. Multilingual support is being considered for future updates.
+Predicted: The NUST mobile app is currently available in English and Urdu.
+Semantic Score: 0.9147
+------------------------------
+Sample 47:
+Reference: Yes, NUST Asaan Digital Account is being offered
+Predicted: NUST Asaan Digital account is specially designed for unbanked / under-banked customer segments. This account is most suited for but not limited to skilled/unskilled workforce
+Semantic Score: 0.8854
+------------------------------
+Sample 48:
+Reference: Current Deposit Account is specially designed for customers with regular banking transactional needs and do not need Profit.
+Predicted: Current Deposit Account is specially designed for customers with regular banking transactional needs and do not need Profit.
+Semantic Score: 1.0000
+------------------------------
+Sample 49:
+Reference: Profit Rate:
+- Tenure: 1, 2, 3 & 5 Years | NUST Maximiser - Term Deposit
+- Minimum investment: Rs. 100,000 | Tenure | Payout | Profit Rate
+- Roll-over option available | One Year | Monthly | 0.1675
+- Attractive profit payments on monthly basis. | Two Years | 0.1425
+Three Years | 0.13752
+Five Years | 0.13
+Predicted: Profit Rate:
+- Tenure: 1, 2, 3 & 5 Years | NUST Maximiser - Term Deposit
+- Minimum investment: Rs. 100,000 | Tenure | Payout | Profit Rate
+- Roll-over option available | One Year | Monthly | 0.1675
+- Attractive profit payments on monthly basis. | Two Years | 0.1425
+Three Years | 0.13752
+Five Years | 0.13
+Semantic Score: 1.0000
+------------------------------
+Sample 50:
+Reference: No
+Predicted: New Business
+Between 20-50 years at the time of application | Existing Business
+Between 20-65 years at the time of application
+Semantic Score: 0.7946
+------------------------------
+Sample 51:
+Reference: Government Organizations, Corporations
+Clubs, Societies, Associations,
+NGOs/NPOs/Charitable Organizations
+Predicted: Government Organizations, Corporations
+Clubs, Societies, Associations,
+NGOs/NPOs/Charitable Organizations
+Semantic Score: 1.0000
+------------------------------
+Sample 52:
+Reference: Free SMS alerts facility on Digital Transactions
+Free E-statement & I-Net Banking
+Free Inter Branch Online Cash Deposit/Withdrawal (Online)
+Free Internal Fund Transfer within NUST via branch (Online Transfer)
+Free Banker’s Cheque Issuance
+Predicted: Free E-statement & I-Net Banking
+Free Inter Branch Online Cash Deposit/Withdrawal (Online)
+Free Internal Fund Transfer within NUST via branch (Online Transfer)
+Free Banker’s Cheque Issuance
+Free SMS Alerts on Digital Transaction
+Semantic Score: 0.9754
+------------------------------
+Sample 53:
+Reference: Yes, it is mandatory to provide purpose of funds being sent to Pakistan.
+Predicted: Yes, it is mandatory to declare the purpose of funds being sent to Pakistan.
+Semantic Score: 0.9782
+------------------------------
+Sample 54:
+Reference: The list of NUST domestic branches can be viewed from the Branch Locator available on our corporate website www.nustbank.com .
+https://NUSTbank.com/find-us/
+Predicted: Yes, you can visit our website at nuustbank.com and click on "Contact Us" to submit your queries or email remittance@nuustbank.com.pk for quick response.
+Semantic Score: 0.8746
+------------------------------
+Sample 55:
+Reference: Current profit rate is 20.50% which is paid Semi Annually.
+Predicted: Current profit rate is 20.50% which is paid Semi Annually.
+Semantic Score: 1.0000
+------------------------------
+Sample 56:
+Reference: NUST Bank has structured a new financing product under the name of “NUST Ujala Finance (NUST Ujala Finance)” in light of SBP’s refinance scheme, under the ambit of SME. The Product Program has been developed to provide financing for installation of solar energy equipment as an alternate source of energy.
+Predicted: NUST Bank has structured a new financing product under the name of “NUST Ujala Finance (NUST Ujala Finance)” in light of SBP’s refinance scheme, under the ambit of SME. The Product Program has been developed to provide financing for installation of solar energy equipment as an alternate source of energy.
+Semantic Score: 1.0000
+------------------------------
+Sample 57:
+Reference: - Cross border (outward) transactions shall not be allowed except in case of international transactions carried out through debit cards
+Predicted: - Cross border (outward) transactions shall not be allowed except in case of international transactions carried out through debit cards
+Semantic Score: 1.0000
+------------------------------
+Sample 58:
+Reference: Minimum 01 year
+Maximum 04 years (up to 7 years for Education Loan) or as per prevailing SBP PRs.
+Predicted: Loan Amount: Minimum Rs. 50,000/ (Rs. 35,000 for retired JCOs & Lower Cadre - Subject to pension with NUST only)
+Maximum Loan Rs. 3,000,000 (For non-prime customers) and Rs. 2,500,000 (For prime customers)
+* For items financed under retail sector, the maximum loan limit shall be Rs. 2,000,000/-
+Semantic Score: 0.8342
+------------------------------
+Sample 59:
+Reference: Yes, Balloon payment or premature termination option is available for all customers.
+Charges will be applied as per prevailing Bank’s schedule of charges / As per corporate arrangement.
+Predicted: In case of overdue / default, recovery department of NUST will contact you, your loan related details will be reported to Credit Bureau.
+Semantic Score: 0.8496
+------------------------------
+
+Extra Metric:
+Token-Level F1: 0.5856
